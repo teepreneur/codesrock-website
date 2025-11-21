@@ -1,11 +1,23 @@
-import { ArrowRight, Menu } from 'lucide-react';
+import { useState } from 'react';
+import { ArrowRight, Menu, X } from 'lucide-react';
 
 const Navigation = () => {
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+
   const scrollToForm = () => {
     const form = document.querySelector('form');
     if (form) {
       form.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
+    setMobileMenuOpen(false); // Close menu after clicking
+  };
+
+  const toggleMobileMenu = () => {
+    setMobileMenuOpen(!mobileMenuOpen);
+  };
+
+  const handleLinkClick = () => {
+    setMobileMenuOpen(false);
   };
 
   return (
@@ -15,7 +27,7 @@ const Navigation = () => {
           {/* Logo Image */}
           <a
             href="#"
-            className="flex-shrink-0 group cursor-pointer transition-transform hover:scale-105 duration-300"
+            className="flex-shrink-0 group cursor-pointer transition-transform hover:scale-105 duration-300 relative z-50"
           >
             <img
               src="https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/fe9cd68f-6895-4b47-a0cd-c9f1d5fce2a3_320w.png"
@@ -62,14 +74,77 @@ const Navigation = () => {
             </button>
           </div>
 
-          {/* Mobile Menu Icon */}
-          <div className="md:hidden">
-            <button className="text-gray-600 p-2 hover:bg-gray-100 rounded-lg transition-colors">
-              <Menu className="w-7 h-7" />
+          {/* Mobile Menu Toggle */}
+          <div className="md:hidden relative z-50">
+            <button
+              onClick={toggleMobileMenu}
+              className="text-gray-600 p-2 hover:bg-gray-100 rounded-lg transition-colors"
+              aria-label="Toggle menu"
+            >
+              {mobileMenuOpen ? (
+                <X className="w-7 h-7" />
+              ) : (
+                <Menu className="w-7 h-7" />
+              )}
             </button>
           </div>
         </div>
       </div>
+
+      {/* Mobile Menu */}
+      <div
+        className={`md:hidden absolute top-24 left-0 right-0 bg-white border-b border-gray-100 shadow-lg transition-all duration-300 ease-in-out ${
+          mobileMenuOpen
+            ? 'opacity-100 translate-y-0 visible'
+            : 'opacity-0 -translate-y-4 invisible'
+        }`}
+      >
+        <div className="px-4 py-6 space-y-4">
+          <a
+            href="#why-screen-free"
+            onClick={handleLinkClick}
+            className="block text-lg font-medium text-gray-700 hover:text-[#46C5D5] transition-colors py-2"
+          >
+            Why Screen-Free?
+          </a>
+          <a
+            href="#kit"
+            onClick={handleLinkClick}
+            className="block text-lg font-medium text-gray-700 hover:text-[#FF7340] transition-colors py-2"
+          >
+            The Kit
+          </a>
+          <a
+            href="#impact"
+            onClick={handleLinkClick}
+            className="block text-lg font-medium text-gray-700 hover:text-[#5D3B98] transition-colors py-2"
+          >
+            Impact
+          </a>
+          <a
+            href="#about"
+            onClick={handleLinkClick}
+            className="block text-lg font-medium text-gray-700 hover:text-[#FDC82F] transition-colors py-2"
+          >
+            About Us
+          </a>
+          <button
+            onClick={scrollToForm}
+            className="w-full bg-[#FF7340] hover:bg-[#E65D2D] text-white font-semibold rounded-full py-4 px-6 shadow-lg transition-all flex items-center justify-center gap-2 mt-4"
+          >
+            Book Free Demo <ArrowRight className="w-5 h-5" />
+          </button>
+        </div>
+      </div>
+
+      {/* Mobile Menu Overlay */}
+      {mobileMenuOpen && (
+        <div
+          className="md:hidden fixed inset-0 bg-black/20 backdrop-blur-sm z-40"
+          onClick={toggleMobileMenu}
+          style={{ top: '96px' }}
+        />
+      )}
     </nav>
   );
 };
