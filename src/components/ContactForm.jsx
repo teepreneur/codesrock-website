@@ -54,6 +54,17 @@ const ContactForm = () => {
     setStatus({ loading: true, success: false, error: null });
 
     try {
+      // Check if Supabase is configured
+      if (!supabase) {
+        console.log('Form submission (Supabase not configured):', formData);
+        setStatus({
+          loading: false,
+          success: false,
+          error: 'Database not configured. Please contact support.'
+        });
+        return;
+      }
+
       // Insert data into Supabase
       const { data, error } = await supabase
         .from('form_submissions')
