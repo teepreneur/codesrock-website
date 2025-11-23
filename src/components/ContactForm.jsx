@@ -67,14 +67,13 @@ const ContactForm = () => {
 
       // Insert data into Supabase
       const { data, error } = await supabase
-        .from('form_submissions')
+        .from('demo_requests')
         .insert([
           {
             name: formData.name,
             phone: formData.phone,
             email: formData.email,
             role: formData.role,
-            created_at: new Date().toISOString(),
           },
         ])
         .select();
