@@ -4,20 +4,24 @@ import { ArrowRight, Menu, X } from 'lucide-react';
 const Navigation = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
+  const scrollToSection = (sectionId) => {
+    const section = document.getElementById(sectionId);
+    if (section) {
+      section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+    setMobileMenuOpen(false);
+  };
+
   const scrollToForm = () => {
     const form = document.querySelector('form');
     if (form) {
       form.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
-    setMobileMenuOpen(false); // Close menu after clicking
+    setMobileMenuOpen(false);
   };
 
   const toggleMobileMenu = () => {
     setMobileMenuOpen(!mobileMenuOpen);
-  };
-
-  const handleLinkClick = () => {
-    setMobileMenuOpen(false);
   };
 
   return (
@@ -38,30 +42,30 @@ const Navigation = () => {
 
           {/* Desktop Links */}
           <div className="hidden md:flex items-center space-x-8">
-            <a
-              href="#why-screen-free"
-              className="text-base font-medium text-gray-600 hover:text-[#46C5D5] transition-colors"
+            <button
+              onClick={() => scrollToSection('why-screen-free')}
+              className="text-base font-medium text-gray-600 hover:text-[#46C5D5] transition-colors cursor-pointer"
             >
               Why Screen-Free?
-            </a>
-            <a
-              href="#kit"
-              className="text-base font-medium text-gray-600 hover:text-[#FF7340] transition-colors"
+            </button>
+            <button
+              onClick={() => scrollToSection('kit')}
+              className="text-base font-medium text-gray-600 hover:text-[#FF7340] transition-colors cursor-pointer"
             >
               The Kit
-            </a>
-            <a
-              href="#impact"
-              className="text-base font-medium text-gray-600 hover:text-[#5D3B98] transition-colors"
+            </button>
+            <button
+              onClick={() => scrollToSection('impact')}
+              className="text-base font-medium text-gray-600 hover:text-[#5D3B98] transition-colors cursor-pointer"
             >
               Impact
-            </a>
-            <a
-              href="#about"
-              className="text-base font-medium text-gray-600 hover:text-[#FDC82F] transition-colors"
+            </button>
+            <button
+              onClick={() => scrollToSection('about')}
+              className="text-base font-medium text-gray-600 hover:text-[#FDC82F] transition-colors cursor-pointer"
             >
               About Us
-            </a>
+            </button>
           </div>
 
           {/* CTA */}
@@ -100,34 +104,30 @@ const Navigation = () => {
         }`}
       >
         <div className="px-4 py-6 space-y-4">
-          <a
-            href="#why-screen-free"
-            onClick={handleLinkClick}
-            className="block text-lg font-medium text-gray-700 hover:text-[#46C5D5] transition-colors py-2"
+          <button
+            onClick={() => scrollToSection('why-screen-free')}
+            className="block w-full text-left text-lg font-medium text-gray-700 hover:text-[#46C5D5] transition-colors py-2"
           >
             Why Screen-Free?
-          </a>
-          <a
-            href="#kit"
-            onClick={handleLinkClick}
-            className="block text-lg font-medium text-gray-700 hover:text-[#FF7340] transition-colors py-2"
+          </button>
+          <button
+            onClick={() => scrollToSection('kit')}
+            className="block w-full text-left text-lg font-medium text-gray-700 hover:text-[#FF7340] transition-colors py-2"
           >
             The Kit
-          </a>
-          <a
-            href="#impact"
-            onClick={handleLinkClick}
-            className="block text-lg font-medium text-gray-700 hover:text-[#5D3B98] transition-colors py-2"
+          </button>
+          <button
+            onClick={() => scrollToSection('impact')}
+            className="block w-full text-left text-lg font-medium text-gray-700 hover:text-[#5D3B98] transition-colors py-2"
           >
             Impact
-          </a>
-          <a
-            href="#about"
-            onClick={handleLinkClick}
-            className="block text-lg font-medium text-gray-700 hover:text-[#FDC82F] transition-colors py-2"
+          </button>
+          <button
+            onClick={() => scrollToSection('about')}
+            className="block w-full text-left text-lg font-medium text-gray-700 hover:text-[#FDC82F] transition-colors py-2"
           >
             About Us
-          </a>
+          </button>
           <button
             onClick={scrollToForm}
             className="w-full bg-[#FF7340] hover:bg-[#E65D2D] text-white font-semibold rounded-full py-4 px-6 shadow-lg transition-all flex items-center justify-center gap-2 mt-4"
