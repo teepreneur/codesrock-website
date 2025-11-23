@@ -1,6 +1,9 @@
 import { Calendar, School, Code2 } from 'lucide-react';
+import { useNavigate } from 'react-router-dom';
 
 const Hero = () => {
+  const navigate = useNavigate();
+
   const scrollToForm = () => {
     const form = document.querySelector('form');
     if (form) {
@@ -42,7 +45,10 @@ const Hero = () => {
             <Calendar className="w-6 h-6" />
             Book a Free Online Demo
           </button>
-          <button className="sm:w-auto hover:bg-[#46C5D5]/5 transition-all flex gap-2 text-lg font-semibold text-[#46C5D5] bg-white w-full border-[#46C5D5]/20 border-2 rounded-full pt-4 pr-8 pb-4 pl-8 gap-x-2 gap-y-2 items-center justify-center">
+          <button
+            onClick={() => navigate('/signup')}
+            className="sm:w-auto hover:bg-[#46C5D5]/5 transition-all flex gap-2 text-lg font-semibold text-[#46C5D5] bg-white w-full border-[#46C5D5]/20 border-2 rounded-full pt-4 pr-8 pb-4 pl-8 gap-x-2 gap-y-2 items-center justify-center"
+          >
             <School className="w-6 h-6" />
             Join as School or Parent
           </button>

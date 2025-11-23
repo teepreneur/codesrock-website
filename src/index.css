@@ -44,3 +44,24 @@
 ::-webkit-scrollbar-thumb:hover {
   background: #94a3b8;
 }
+
+/* Animations for Signup Page */
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in-up 0.6s ease-out forwards;
+}
+
+/* Form Focus States */
+.input-field:focus {
+  box-shadow: 0 0 0 4px rgba(255, 115, 64, 0.1);
+}
