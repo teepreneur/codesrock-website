@@ -62,6 +62,7 @@ const WhyScreenFree = () => {
                   src="https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/074e27c6-2b28-428e-a325-5376f94175bd_1600w.jpg"
                   alt="Smiling Ghanaian children learning with CodesRock"
                   className="w-full h-full object-cover rounded-[2rem]"
+                  loading="lazy"
                 />
               </div>
             </div>
