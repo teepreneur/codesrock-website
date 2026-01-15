@@ -1,5 +1,6 @@
 import { Calendar, School } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
+import heroVideo from '/hero-animation.mp4?url';
 
 const Hero = () => {
   const navigate = useNavigate();
@@ -64,7 +65,7 @@ const Hero = () => {
               playsInline
               className="w-full h-auto"
             >
-              <source src={import.meta.env.BASE_URL + 'hero-animation.mp4'} type="video/mp4" />
+              <source src={heroVideo} type="video/mp4" />
               Your browser does not support the video tag.
             </video>
           </div>
