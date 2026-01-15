@@ -64,7 +64,7 @@ const Hero = () => {
               playsInline
               className="w-full h-auto"
             >
-              <source src="/hero-animation.mp4" type="video/mp4" />
+              <source src={import.meta.env.BASE_URL + 'hero-animation.mp4'} type="video/mp4" />
               Your browser does not support the video tag.
             </video>
           </div>
