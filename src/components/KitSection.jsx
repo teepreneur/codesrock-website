@@ -44,10 +44,10 @@ const KitSection = () => {
   ];
 
   return (
-    <section className="z-10 bg-white pt-24 pb-24 relative" id="kit">
+    <section className="z-10 bg-white pt-24 pb-24 relative" id="kit" aria-labelledby="kit-heading">
       <div className="sm:px-6 lg:px-8 max-w-7xl mr-auto ml-auto pr-4 pl-4">
         <div className="text-center mb-20">
-          <h2 className="text-3xl md:text-5xl font-semibold text-gray-900 mb-6">
+          <h2 id="kit-heading" className="text-3xl md:text-5xl font-semibold text-gray-900 mb-6">
             What's Inside the CodesRock Kit?
           </h2>
           <p className="text-xl text-gray-500">

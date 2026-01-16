@@ -19,9 +19,9 @@ const Testimonials = () => {
   ];
 
   return (
-    <section className="py-24 bg-[#FAFAFA]">
+    <section className="py-24 bg-[#FAFAFA]" aria-labelledby="testimonials-heading">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 className="text-3xl md:text-4xl font-semibold text-center text-gray-900 mb-20">
+        <h2 id="testimonials-heading" className="text-3xl md:text-4xl font-semibold text-center text-gray-900 mb-20">
           Smiles from Teachers & Parents
         </h2>
 

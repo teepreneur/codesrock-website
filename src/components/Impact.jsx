@@ -20,13 +20,15 @@ const Impact = () => {
   ];
 
   return (
-    <section id="impact" className="py-24 bg-[#5D3B98] relative overflow-hidden">
+    <section id="impact" className="py-24 bg-[#5D3B98] relative overflow-hidden" aria-labelledby="impact-heading">
       <div
         className="absolute inset-0 opacity-10 bg-cover bg-center"
         style={{
           backgroundImage:
             'url(https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/27514c0c-c799-47b5-8485-a6021230951d_800w.png)',
         }}
+        role="presentation"
+        aria-hidden="true"
       ></div>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
@@ -35,7 +37,7 @@ const Impact = () => {
             <span className="text-[#FDC82F] font-bold uppercase tracking-wider text-sm mb-3 block">
               Our Impact
             </span>
-            <h2 className="text-4xl md:text-6xl font-semibold text-white">
+            <h2 id="impact-heading" className="text-4xl md:text-6xl font-semibold text-white">
               Real Results from Ghana
             </h2>
           </div>

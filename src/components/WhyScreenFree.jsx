@@ -2,11 +2,11 @@ import { BrainCircuit, Users } from 'lucide-react';
 
 const WhyScreenFree = () => {
   return (
-    <section className="z-10 pt-24 pb-24 relative" id="why-screen-free">
+    <section className="z-10 pt-24 pb-24 relative" id="why-screen-free" aria-labelledby="why-screen-free-heading">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid md:grid-cols-2 gap-16 items-center">
           <div>
-            <h2 className="text-3xl md:text-5xl font-semibold text-gray-900 mb-8 leading-tight">
+            <h2 id="why-screen-free-heading" className="text-3xl md:text-5xl font-semibold text-gray-900 mb-8 leading-tight">
               Why go{' '}
               <span className="text-[#CE3845] relative inline-block">
                 Screen-Free
