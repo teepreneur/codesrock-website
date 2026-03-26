@@ -61,8 +61,8 @@ const Navigation = () => {
           {/* Logo Image */}
           <a
             href="#"
-            className="flex-shrink-0 group cursor-pointer transition-transform hover:scale-105 duration-300 relative z-50"
-            aria-label="CodesRock Home"
+            className="flex-shrink-0 group cursor-pointer transition-transform hover:scale-105 duration-300 relative z-50 flex items-center gap-2 md:gap-3"
+            aria-label="CodesRock Labs Home"
           >
             <img
               src="https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/fe9cd68f-6895-4b47-a0cd-c9f1d5fce2a3_320w.png"
@@ -70,6 +70,9 @@ const Navigation = () => {
               className="h-14 md:h-20 w-auto object-contain drop-shadow-sm"
               loading="eager"
             />
+            <span className="text-2xl md:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-[#FF7340] to-[#FF9B71] tracking-tight">
+              Labs
+            </span>
           </a>
 
           {/* Desktop Links */}

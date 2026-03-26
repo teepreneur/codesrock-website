@@ -32,10 +32,8 @@ const Hero = () => {
           </span>
         </h1>
 
-        <p className="md:text-2xl leading-relaxed text-xl text-gray-500 max-w-3xl mr-auto mb-12 ml-auto">
-          The complete <span className="font-semibold text-gray-800">screen-free</span>{' '}
-          computational thinking program used by preschools and K3 across Ghana. No tablets
-          required—just pure creativity.
+        <p className="md:text-2xl leading-relaxed text-xl text-gray-500 max-w-4xl mr-auto mb-12 ml-auto">
+          <span className="font-semibold text-gray-800">CodesRock Labs</span> is an innovative edtech company empowering children <span className="font-semibold text-gray-800">3+ years</span> with foundational <span className="font-semibold text-[#FF7340]">coding, AI, and robotics</span> skills through entirely <span className="font-semibold text-[#46C5D5]">screen-free</span>, hands-on activities. No tablets required—just pure creativity and real-world problem-solving.
         </p>
 
         <div className="flex flex-col sm:flex-row justify-center gap-5 w-full max-w-md mx-auto sm:max-w-none">

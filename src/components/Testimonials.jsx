@@ -4,7 +4,7 @@ const Testimonials = () => {
   const testimonials = [
     {
       quote:
-        "The children are always excited when it's time for CodesRock. It has transformed how they approach challenges—they don't give up, they 'debug'!",
+        "The children are always excited when it's time for CodesRock Labs. It has transformed how they approach challenges—they don't give up, they 'debug'!",
       name: 'Mrs. Adjei',
       role: 'Preschool Head Teacher, Accra',
       quoteColor: '#CE3845',

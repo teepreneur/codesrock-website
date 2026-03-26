@@ -14,7 +14,7 @@ const SignupNavigation = () => {
           </Link>
           <img
             src="https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/fe9cd68f-6895-4b47-a0cd-c9f1d5fce2a3_320w.png"
-            alt="CodesRock Logo"
+            alt="CodesRock Labs Logo"
             className="h-12 w-auto object-contain"
           />
           <div className="w-20"></div>

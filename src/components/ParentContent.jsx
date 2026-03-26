@@ -155,7 +155,7 @@ const ParentContent = () => {
               <span className="font-mono text-[#FDC82F]">₵ 1,200</span>
             </div>
             <div className="flex justify-between items-center text-sm">
-              <span className="text-gray-400">CodesRock Activity Book</span>
+              <span className="text-gray-400">CodesRock Labs Activity Book</span>
               <span className="font-mono text-[#FDC82F]">₵ 280</span>
             </div>
             <div className="flex justify-between items-center text-sm">

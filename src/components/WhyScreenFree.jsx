@@ -60,7 +60,7 @@ const WhyScreenFree = () => {
               <div className="aspect-[4/3] bg-gray-50 rounded-[2rem] flex items-center justify-center text-gray-400 border border-gray-100">
                 <img
                   src="https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/074e27c6-2b28-428e-a325-5376f94175bd_1600w.jpg"
-                  alt="Smiling Ghanaian children learning with CodesRock"
+                  alt="Smiling Ghanaian children learning with CodesRock Labs"
                   className="w-full h-full object-cover rounded-[2rem]"
                   loading="lazy"
                 />

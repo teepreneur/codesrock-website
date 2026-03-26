@@ -6,14 +6,14 @@ const About = () => {
           Made with ❤️ in Ghana
         </h2>
         <p className="text-gray-600 mb-12 leading-relaxed text-xl">
-          Founded by Triumph & Ellen, CodesRock was born from a simple belief: every African child
+          Founded by Triumph & Ellen, <span className="font-semibold text-gray-800">CodesRock Labs</span> was born from a simple belief: every African child
           deserves to speak the language of the future, regardless of their access to computers. We
           are a team of educators, engineers, and artists dedicated to joyful learning.
         </p>
         <div className="flex justify-center gap-4">
           <img
             src="https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/08006bc9-0888-4e4a-86f9-b2f00ec68300_320w.jpg"
-            alt="Triumph and Ellen, founders of CodesRock"
+            alt="Triumph and Ellen, founders of CodesRock Labs"
             className="w-40 h-40 rounded-full shadow-lg object-cover border-4 border-white"
             loading="lazy"
           />
