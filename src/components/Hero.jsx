@@ -25,12 +25,27 @@ const Hero = () => {
           </span>
         </div>
 
-        <h1 className="text-5xl md:text-7xl font-bold text-gray-900 tracking-tight mb-8 leading-[1.1]">
-          Play. Think. Code. <br />
-          <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#CE3845] via-[#FDC82F] to-[#46C5D5]">
-            Grow.
-          </span>
-        </h1>
+        <div className="flex flex-col md:flex-row justify-center items-center gap-6 mb-8 mt-4 animate-fade-in-up">
+          <img 
+            src="/rocky_3d.png" 
+            alt="Rocky from CodesRock" 
+            className="w-32 h-32 md:w-36 md:h-36 object-cover rounded-full border-4 border-[#FF7340]/20 shadow-xl" 
+          />
+          
+          <div className="relative bg-white/70 backdrop-blur-xl p-8 rounded-3xl border border-gray-100 shadow-lg text-center md:text-left">
+            {/* Speech bubble tail for md+ */}
+            <div className="hidden md:block absolute -left-4 top-1/2 -translate-y-1/2 w-0 h-0 border-t-[15px] border-t-transparent border-r-[20px] border-r-white/70 border-b-[15px] border-b-transparent"></div>
+            {/* Speech bubble tail for mobile */}
+            <div className="md:hidden absolute -top-4 left-1/2 -translate-x-1/2 w-0 h-0 border-l-[15px] border-l-transparent border-b-[20px] border-b-white/70 border-r-[15px] border-r-transparent"></div>
+            
+            <h1 className="text-4xl md:text-6xl font-bold text-gray-900 tracking-tight leading-[1.1]">
+              Play. Think. Code. Build. <br />
+              <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#CE3845] via-[#FDC82F] to-[#46C5D5]">
+                Grow.
+              </span>
+            </h1>
+          </div>
+        </div>
 
         <p className="md:text-2xl leading-relaxed text-xl text-gray-500 max-w-4xl mr-auto mb-12 ml-auto">
           <span className="font-semibold text-gray-800">CodesRock Labs</span> is an innovative edtech company empowering children <span className="font-semibold text-gray-800">3+ years</span> with foundational <span className="font-semibold text-[#FF7340]">coding, AI, and robotics</span> skills through entirely <span className="font-semibold text-[#46C5D5]">screen-free</span>, hands-on activities. No tablets required—just pure creativity and real-world problem-solving.
