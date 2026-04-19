@@ -47,7 +47,7 @@ const Footer = () => {
           </nav>
         </div>
         <div className="border-t border-gray-100 pt-10 flex flex-col md:flex-row justify-between items-center text-sm text-gray-400">
-          <p>© 2025 Starters Technology – CodesRock Labs. All rights reserved.</p>
+          <p>© 2025 Codesrock Labs Ltd. All rights reserved.</p>
           <nav aria-label="Legal links">
             <ul className="flex gap-6 mt-6 md:mt-0 list-none">
               <li>

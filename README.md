@@ -590,7 +590,7 @@ await supabase
 
 ## License
 
-© 2025 Starters Technology – CodesRock. All rights reserved.
+© 2025 Codesrock Labs Ltd. All rights reserved.
 
 ---
 
