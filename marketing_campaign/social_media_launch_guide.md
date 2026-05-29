@@ -27,6 +27,7 @@ To expand from 12 IG followers to a global community, our new platform setups mu
     > Link in bio for Home Kits! 👇
 *   **Action Plan:**
     - [ ] Create Business Account (for link in bio).
+    - [ ] Follow the [Rocky 3D Video Production Guide](file:///Users/triumphtetteh/Documents/CodeRock_web/codesrock-react/marketing_campaign/rocky_3d_video_production_guide.md) to animate images.
     - [ ] Use trending "Educational" or "Parenting" audio for the first 3 videos.
     - [ ] Post "The Logic Challenge" as a pinned video to drive comments.
     - [ ] Use Hashtags: #CodesRock #ScreenFree #ParentingHacks #STEM #GhanaTech
