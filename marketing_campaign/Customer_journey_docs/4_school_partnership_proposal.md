@@ -27,9 +27,10 @@ CodesRock is a screen-free computational thinking program designed to empower Af
 | **Curriculum Access** | Full Lesson Plans, Scenarios, and Puzzles | 1,500 |
 | **Implementation & Training** | On-site Teacher Training & Proficiency Review | 1,200 |
 | **Teacher Training Content** | Video tutorials, Guides, and Classroom Materials | 1,050 |
-| **Teacher Portal Access** | 3 Years tracking & resource updates | **FREE** |
-| **Support & Maintenance** | 3 Years technical warranty & hardware support | **FREE** |
+| **Teacher Portal Access** | 1 Term tracking & resource updates (₵50/mo per teacher + ₵5/mo per student starting Term 2) | **FREE** |
+| **Support & Maintenance** | 1 Term technical warranty & hardware support (included in subscription thereafter) | **FREE** |
 | **TOTAL INITIAL INVESTMENT** | | **5,850** |
+*Note: Starting Term 2, a monthly subscription of ₵50 per teacher and ₵5 per student applies for portal access, maintenance, and support.*
 
 ---
 

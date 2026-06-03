@@ -16,7 +16,7 @@ The purpose of this MoU is to establish a strategic partnership to implement the
 *   **Hardware Delivery**: Provide 5 interactive robots, 5 coding card decks, and associated accessories.
 *   **Curriculum & Materials**: Provide digital and physical access to lesson plans, activity books, and teacher guides.
 *   **Teacher Training**: Conduct a comprehensive 1-day proficiency workshop for designated staff.
-*   **Support & Maintenance**: Provide hardware technical support and software updates for a period of 3 years free of charge.
+*   **Support & Maintenance**: Provide hardware technical support and software updates for a period of 1 term free of charge (subsequent terms subject to the standard Portal subscription fee of ₵50/month per teacher and ₵5/month per student).
 *   **Certification**: Provide official certification for trained teachers and a "Certified STEM Center" plaque for the school.
 
 ### 3. Partner School Responsibilities

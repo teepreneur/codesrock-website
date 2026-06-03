@@ -245,8 +245,8 @@ Toggle between School and Parent roles with visual feedback.
   - Training, Evaluation & Validation: 1,200₵
   - Curriculum Access: 1,500₵
   - Training Content: 1,050₵
-  - Teacher Portal Access (3 years): Free
-  - Support & Maintenance (3 years): Free
+  - Teacher Portal Access (1 term): Free (thereafter ₵50/month per teacher + ₵5/month per student)
+  - Support & Maintenance (1 term): Free (included in subscription thereafter)
   - **Total Investment: 5,850₵**
 
 **Right Column — Application Form:**

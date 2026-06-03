@@ -1,0 +1,319 @@
+=== Text from Day4_CompetitionAnalysis.pptx ===
+
+--- Slide 1 ---
+UNICEF STARTUP LAB GHANA Day 4 of 4 Competition Analysis Know Your Market, Know Yourself, Take Action Session: 9:00 AM - 4:00 PM MEST Africa  |  UNICEF Ghana  |  KOICA
+[Notes for Slide 1]:
+PRESENTER NOTES — DAY 4 TITLE SLIDE
+TIMING: 5 minutes | 9:00–9:05 AM
+
+WELCOME SCRIPT:
+"Good morning — welcome to the final day of Module 3. You now have your Business Model Canvas, your Business Model Type, and your Revenue Model. Today we answer the question every investor will ask before anything else: who else is doing this, and why will customers choose you? That is Competition Analysis."
+
+ENERGISER:
+Start with: "Every single one of you has a competitor who is further ahead right now. Your job today is to figure out exactly why — and what you are going to do about it." This creates urgency and frames competition as intelligence work, not a threat.
+
+GHANA CONTEXT:
+Ghana's startup ecosystem is maturing fast. There are now 250+ active fintechs, 80+ EdTechs, and 60+ AgriTechs registered or operating in Ghana. International players are entering: Flutterwave, Paystack (Stripe-owned), Jumia, Wave. This is a validation signal — it means the market is real. The question is: where is your defensible position?
+
+FACILITATOR TIP:
+Remind participants: today's competition analysis exercise output feeds directly into the 'Market Context' slide of their Module 4 investor pitch deck. This is not an academic exercise — it is pitch-deck content.
+
+--- Slide 2 ---
+Day 4 Schedule — 9:00 AM to 4:00 PM DAY 4  |  MODULE 3 9:00 AM Welcome, Day 3 Recap & Unit Economics Review 20 min 9:20 AM Why Competition Analysis Matters — 3 Competitor Types 40 min 10:00 AM Research Methods — How to Map Your Landscape 30 min 10:30 AM MORNING BREAK 15 min 10:45 AM Porter's Five Forces Framework 45 min 11:30 AM Competitive SWOT & Positioning Map 45 min 12:15 PM LUNCH BREAK 60 min 1:15 PM Case Studies: Ghana EdTech & FinTech Landscapes 60 min 2:15 PM Turning Competitive Insight into Action 30 min 2:45 PM AFTERNOON BREAK 15 min 3:00 PM Exercise: Build Your Competition Analysis 45 min 3:45 PM Key Takeaways, Programme Wrap-Up & Close 15 min
+[Notes for Slide 2]:
+PRESENTER NOTES — DAY 4 SCHEDULE
+TIMING: 3 minutes
+
+Walk participants through the full day. Highlight the afternoon exercise block (3:00–4:00 PM) as the most hands-on and important part of the day. Confirm lunch and break arrangements. Ask if there are any questions before starting.
+
+--- Slide 3 ---
+Day 3 Recap: What We Covered DAY 4  |  MODULE 3 Quick recap before we begin. What do you remember from Day 3 — Revenue Models? Revenue model is the pricing mechanism — how money specifically flows to your company. A subset of your business model. LTV must be at least 3x CAC (Customer Acquisition Cost) for a fundable unit economics model Bottom-up revenue forecasting starts from your actual sales capacity and churn rate — not market share assumptions Blended models (e.g., subscription + transaction) are the norm for successful African tech companies at scale
+[Notes for Slide 3]:
+PRESENTER NOTES — DAY 4 RECAP
+TIMING: 10 minutes
+
+Do NOT just read the points — ask participants to say them. Ask: "Who can tell me what we covered yesterday?" Use this as an energiser to kick off Day 4. Revisit any homework from Day 3 — ask 2-3 participants to share what they discovered. Address any lingering questions before moving forward.
+
+--- Slide 4 ---
+Today's Learning Objectives DAY 4  |  MODULE 3 By the end of today, you will be able to: 1 Identify all three competitor types (direct, indirect, substitute) for your startup — including competitors you had not considered 2 Apply Porter's Five Forces to assess competitive intensity at the industry level in your sector 3 Build a competitive positioning map that shows your startup's differentiated position relative to 3+ competitors 4 Articulate a defensible competitive moat — the structural reason customers will stay with you as competition grows
+[Notes for Slide 4]:
+PRESENTER NOTES — LEARNING OBJECTIVES
+TIMING: 5 minutes
+
+Read each objective aloud. Ask: "Which of these is most relevant to where your startup is right now?" Take 2 show-of-hands. Return to these at the end of the day — self-assess whether each was met. Facilitator tip: write these on a whiteboard/flip-chart so they stay visible all day.
+
+--- Slide 5 ---
+01 DAY 4  |  MODULE 3 Understanding Your Competitive Landscape "If you know the enemy and know yourself, you need not fear the result of a hundred battles." — Sun Tzu
+[Notes for Slide 5]:
+Section intro — tell participants what is coming in this block, why it matters, and roughly how long it will take.
+
+--- Slide 6 ---
+3 Types of Competitors : Map All Three DAY 4  |  MODULE 3 Most founders map only direct competitors and miss the indirect and substitute threats — this is how startups get blindsided. DIRECT COMPETITORS Same product, same target customer — competing head-to-head for the same GHS Easiest to identify: search your problem + Ghana/Africa on Google and Crunchbase Danger: over-focus on direct competitors can blind you to more existential threats from Types 2 and 3 Ghana example: Two crop insurance platforms both targeting smallholder farmers in the Northern Region Your job: understand their pricing, their product gaps, and their customer complaints INDIRECT COMPETITORS Different product, different approach — but solving the SAME underlying customer problem Often harder to identify because they do not show up in a standard startup market scan Danger: they may be more trusted or better resourced than you and your direct competitors combined Ghana example: A HealthTech telemedicine app competing indirectly with Community Health Workers who provide free advice Question to ask: 'What else does my target customer use to solve this problem today?' SUBSTITUTES The customer uses something DIFFERENT — or does NOTHING — instead of your product The 'doing nothing' substitute is often the biggest competitor for social impact startups Danger: behaviour change is expensive — if the substitute costs the user nothing, you face an uphill battle Ghana example: A digital savings app competing against: cash under a mattress, joining a susu group, buying physical gold Key insight: your onboarding journey must address WHY the substitute is insufficient — explicitly
+[Notes for Slide 6]:
+PRESENTER NOTES — 3 TYPES OF COMPETITORS
+TIMING: 25 minutes | 9:20–9:45 AM
+
+KEY TALKING POINTS:
+1. The "doing nothing" substitute is often the most dangerous competitor for social impact startups — the cost of inaction is often $0 to the user, but very high to society. Your product needs to make action cheaper and easier than inaction.
+2. In Ghana's informal economy: traditional informal substitutes (susu collectors, herbalists, okyeame/traditional mediators) are powerful indirect competitors for formal digital services. They have decades of trust that no startup can buy.
+3. Indirect competitors are dangerous because they do not show up on AngelList, Crunchbase, or any startup database — they require primary research (customer interviews) to discover.
+
+LIVE EXERCISE (5 min — do this NOW):
+Give each participant a piece of paper divided into 3 columns: Direct / Indirect / Substitute.
+Ask them to fill in at least 1 example in each column for their own startup. 3 minutes, then 2 minutes share.
+This usually surfaces at least one competitor type no one had considered before.
+
+GHANA CONTEXT:
+- FinTech: susu collectors (informal rotating savings groups) have 5M+ members in Ghana — they are the indirect competitor to every savings/credit app
+- HealthTech: 'I'll wait and see' behaviour (waiting 2+ weeks before seeking medical care) is a substitute competitor
+- AgriTech: free MoFA (Ministry of Food and Agriculture) extension services are indirect competitors for paid advisory platforms
+
+FACILITATOR TIP:
+Ask after the exercise: "Who found a competitor in the Indirect or Substitute column that genuinely concerns you?" The honest answers are the most valuable — validate and explore.
+
+--- Slide 7 ---
+Mapping Your Competitive Landscape DAY 4  |  MODULE 3 DESK RESEARCH — Start Here Google: search '[problem] Ghana startup' or '[sector] app Ghana 2024' Crunchbase / Africa: The Big Deal — search by sector and geography for funded competitors MEST Africa + GCIC + Kosmos Innovation Center portfolios — check what has already been built Google Play Store: search your problem keywords, sort by installs and ratings LinkedIn: search job titles ('Head of Growth, AgriTech Ghana') to find relevant companies Techpoint Africa, myjoyonline.com, Pulse Ghana — search your sector in recent news GSMA, IFC, World Bank reports — sector overviews often list key players by name PRIMARY RESEARCH — Go Deeper Use competitors' products yourself: sign up, complete onboarding, use the core feature, then cancel. Document the experience. Interview 10 potential customers: 'What else have you tried to solve this problem?' — let them reveal competitors you missed Attend industry events: StartupGrind Ghana, Ghana FinTech Forum, mHub Accra — competitors will be in the room Follow competitor social media and newsletters — track their messaging, launches, and customer complaints Check their job postings: what a company is actively hiring for reveals exactly where they are going next Interview churned customers (if any): 'Why did you stop using X?' is competitive intelligence gold
+[Notes for Slide 7]:
+PRESENTER NOTES — RESEARCH METHODS
+TIMING: 25 minutes | 9:45–10:10 AM
+
+KEY TALKING POINTS:
+1. Most participants have done superficial desk research — Googled once and concluded "there's no real competition." That conclusion is almost always wrong.
+2. "Africa: The Big Deal" database tracks all African startup funding deals: deals.techcabal.com — extremely valuable for identifying funded competitors with serious capital
+3. The job posting research technique is underused and powerful: if a competitor is hiring 5 engineers and a Head of Enterprise Sales, they are scaling B2B fast. This is a strategic signal.
+4. User interviews for competitive intelligence: participants should ask EVERY customer in their discovery process: "What do you currently use to solve this?" in their first 30 seconds.
+
+GHANA-SPECIFIC RESOURCES:
+- Ghana Tech Lab alumni network (searchable online)
+- Bank of Ghana Fintech Registry: BoG maintains a list of licensed fintechs — check if competitors have (or lack) regulatory approval. This is a strategic moat indicator.
+- Ghana FDA Public Register: for HealthTech/NutriTech startups
+
+LIVE ACTIVITY (10 min):
+Give teams 10 minutes of live research time (phones/laptops) to add 3 NEW competitors to their competitor list using any method from this slide. Call time and ask: "Who found something they did not know before?" This makes the slide immediately actionable.
+
+FACILITATION TIP:
+After the activity: "Who found a competitor that is better-funded or further ahead than you expected?" Validate the discomfort — this is healthy intelligence, not defeat.
+
+--- Slide 8 ---
+02 DAY 4  |  MODULE 3 Competitive Frameworks Porter's Five Forces, Competitive SWOT, and the Positioning Map
+[Notes for Slide 8]:
+Section intro — tell participants what is coming in this block, why it matters, and roughly how long it will take.
+
+--- Slide 9 ---
+Porter's Five Forces DAY 4  |  MODULE 3 A sector-level tool (not company-level). Use it to assess whether your industry is structurally attractive or structurally brutal. COMPETITIVE RIVALRY Threat of NEW ENTRANTS Threat of SUBSTITUTES Bargaining Power of SUPPLIERS Bargaining Power of BUYERS High rivalry = price wars  |  High new-entrant threat = low barriers, easy to copy  |  High buyer power = customers dictate price  |  High supplier power = your costs squeezed  |  High substitute threat = customers walk away
+[Notes for Slide 9]:
+PRESENTER NOTES — PORTER'S FIVE FORCES
+TIMING: 30 minutes | 10:45–11:15 AM
+
+WALK THROUGH EACH FORCE WITH A GHANA EXAMPLE:
+1. Competitive Rivalry (Ghana FinTech): VERY HIGH — 250+ fintechs competing for the same urban banked/underbanked customer. Price pressure is intense.
+2. New Entrant Threat (Ghana EdTech): HIGH — low technical barriers; a new EdTech platform can be launched in 6 months with a developer and a curriculum consultant.
+3. Buyer Power (Ghana B2B SaaS): MODERATE — SMEs are price-sensitive but once onboarded (with data and workflows inside the product) switching cost rises.
+4. Supplier Power (Ghana AgriTech/FinTech): MODERATE-HIGH — dependence on MTN or Vodafone for USSD/API access creates real supplier leverage over startups.
+5. Substitute Threat (Ghana HealthTech): HIGH — 'doing nothing,' traditional medicine, and community health workers are all powerful substitutes for formal health tech.
+
+KEY INSIGHT:
+High forces in multiple dimensions = structurally difficult industry. Startups in these environments must build strong MOATS early — network effects, regulatory compliance, proprietary data — to survive.
+
+LIVE EXERCISE (5 min):
+Ask each participant to SILENTLY rate each force (Low/Medium/High) for their own sector.
+Then share one surprising rating with a partner.
+This usually produces 1-2 genuine "aha" moments about sector difficulty.
+
+FACILITATION TIP:
+Ask: "Which of the Five Forces is MOST dangerous for your startup specifically? What are you doing about it?" This converts theory into strategic action.
+
+--- Slide 10 ---
+Competitive SWOT Analysis DAY 4  |  MODULE 3 Powerful when done COMPARATIVELY — your startup vs. your top direct competitor, side by side. HOW TO BUILD A COMPETITIVE SWOT Step 1: Choose your top 1-2 direct competitors (be honest — pick the one you are most worried about) Step 2: For each SWOT dimension, assess YOUR startup AND the competitor side by side Step 3: Look for ASYMMETRIES — where you are strong and they are weak (your attack opportunity), or where they are strong and you are weak (your vulnerability to defend) Step 4: Turn each asymmetry into a specific strategic action — not just an observation EXAMPLE ASYMMETRY — Ghana AgriTech YOUR strength: deep farmer relationships + Twi/Hausa language support built over 3 years COMPETITOR weakness: backed by international capital but English-only, no local relationships, no offline mode ASYMMETRY: you win on trust and language; let them spend on infrastructure that validates the market for you STRATEGIC ACTION: double down on Northern Region farmer relationships as a moat; let competitor spend GHS 5M on Accra-based digital marketing Critical warning: most founders list their Strengths generously and their Weaknesses vaguely. Investors see through this immediately. Be brutally honest about your Weaknesses — and show you have a plan to address them.
+[Notes for Slide 10]:
+PRESENTER NOTES — COMPETITIVE SWOT
+TIMING: 20 minutes | 11:15–11:35 AM
+
+KEY TALKING POINTS:
+1. The comparative SWOT is competitive intelligence turned into strategy. The key output is the ASYMMETRY list — where exactly are you stronger, and can you build a go-to-market strategy around those specific advantages?
+2. "First mover advantage" is listed as a Strength by nearly every startup. Challenge this: in Ghana's market, first movers frequently pave the road for better-funded followers. First mover advantage only holds if you have built switching costs that make leaving expensive.
+3. Language advantage is a REAL moat in Ghana: startups that genuinely support Twi, Ga, Hausa, or Ewe have a structural advantage that international competitors cannot buy quickly.
+
+FACILITATION TIP:
+Ask: "What is the ONE thing you do better than every competitor in this room?" Most will struggle to name it instantly. Normalise the difficulty — this is exactly what the exercise will help them discover and articulate.
+
+Ask: "What does your strongest competitor do better than you? What is your plan for that gap?"
+These two questions are the heart of competitive strategy.
+
+--- Slide 11 ---
+Competitive Positioning Map DAY 4  |  MODULE 3 Choose 2 dimensions that MATTER most to your customers. Plot your startup and 3-5 competitors. Find the white space. LOW PRICE HIGH PRICE BROAD FEATURES NARROW FEATURES Startup A (funded rival) Intl. Platform (premium) Informal substitute YOUR STARTUP How to build yours: (1) Choose 2 axes your customers care most about. (2) Plot 3-5 competitors honestly. (3) Plot yourself where you ACTUALLY ARE today — not where you aspire to be. (4) Identify white space. (5) Articulate why you can defend that position.
+[Notes for Slide 11]:
+PRESENTER NOTES — POSITIONING MAP
+TIMING: 25 minutes | 11:35 AM–12:00 PM
+
+KEY TALKING POINTS:
+1. The positioning map is the most visual competitive tool — investors love it in pitch decks because it instantly shows market context
+2. The TWO AXES must be chosen strategically. They should be dimensions that (a) genuinely matter to customers and (b) show your startup's differentiated position. Common good axis pairs:
+   - Price vs Feature depth
+   - Accessibility vs Feature richness
+   - Speed of service vs Reliability
+   - Local relevance vs Technical sophistication
+3. WARNING: do not position yourself in the top-right "best at everything" corner. Investors immediately know this is cherry-picking. Plot competitors fairly and let the white space speak for itself.
+
+HOW TO BUILD YOUR OWN (walk through live):
+1. Identify 3-5 competitors (min: 1 direct, 1 indirect, 1 substitute)
+2. Choose 2 axes that reflect what customers value most
+3. Plot each competitor honestly based on your research
+4. Plot your startup where you actually are TODAY, not in 3 years
+5. Identify the white space that is underserved
+6. Articulate in one sentence why you occupy (or will occupy) that space
+
+FACILITATION TIP:
+Give participants 10 minutes before lunch to DRAFT their positioning map on paper. They will refine it in the afternoon exercise. Teams who struggle to find white space likely need to niche down or differentiate more sharply.
+Ask: "If your dot is in the same place as a competitor, what is your strategy? You cannot win by being identical."
+
+
+--- Slide 12 ---
+GHANA CASE STUDY Ghana EdTech Landscape Competitive Strategy  |  K-12 + Skills Training  |  2020–2024 The Crowded Sector: 80+ EdTech startups entered post-COVID. Key players: Eneza Education, Abibiman Foundation, M-Power, EdTech Ghana. International: Khan Academy, Coursera, Brainly all entered. Most clustered around the same demographic: urban, English-speaking, smartphone-using students. The Clustering Trap: Competing directly with Khan Academy on breadth of content is a resource-disadvantage game no startup can win. Most EdTechs that tried to out-feature international platforms failed within 24 months. Winning Differentiation: Three successful strategies emerged: (1) CHANNEL — USSD-first for feature phones (Eneza reached 10M+ users with no smartphone required). (2) LANGUAGE — local language instruction (Twi, Hausa) had zero viable international competition. (3) SEGMENT — vocational/technical skills (welding, sewing, electronics) were almost entirely unserved by digital solutions. Key Lesson: In EdTech Ghana, winning formula = channel innovation (USSD/radio/community) OR demographic specificity (rural, vocational, teacher-facing) OR language advantage. NOT better content on a smartphone app. DAY 4  |  MODULE 3
+[Notes for Slide 12]:
+PRESENTER NOTES — GHANA EDTECH CASE STUDY
+TIMING: 30 minutes | 1:15–1:45 PM
+
+TELL THE STORY:
+Eneza Education's USSD bet was counter-intuitive in a smartphone-first funding environment. International EdTech VCs wanted app-first products. Eneza insisted on USSD because it served the MAJORITY of Ghanaian students (feature phone users in rural/peri-urban areas), not the premium minority. Their competitive insight was demographic: the competition was fighting for 2M urban smartphone users, while 8M rural students were entirely unserved. They chose the uncontested market.
+
+KEY TEACHING POINTS:
+1. The "clustering problem" in Ghana EdTech is a real competitive dynamics lesson: too many startups competed for identical customers with similar products, creating a brutal price war. The escape is differentiation — by segment, channel, or language.
+2. Teacher-facing tools: Ghana has 230,000 GES (Ghana Education Service) teachers. As of 2024, digital tools designed specifically for teachers (not students) remain dramatically underserved. Still a live opportunity.
+3. Vocational gap: digital tools for technical/vocational training (TVET sector) in Ghana are almost non-existent. This is a $150M+ annual spending sector with negligible EdTech competition.
+
+CONNECT TO PARTICIPANTS:
+Ask any EdTech participants in the room: "How does this change your competitive positioning? Which of the three winning strategies applies to you?"
+
+DISCUSSION QUESTION:
+"What would need to be true for a new EdTech entrant to beat Eneza Education today? What are their structural moats?"
+Answer: USSD infrastructure + 10M user base + trusted brand in rural communities + years of curriculum data. That is a real moat — not just a lead.
+
+--- Slide 13 ---
+GHANA CASE STUDY Ghana FinTech Landscape Competitive Strategy  |  Payments, Savings & Lending  |  2019–2024 The Structural Reality: Three dominant forces: (1) MTN MoMo (17M+ users) + Telecel Cash + AirtelTigo Money own the payment rails AND the customer relationship. (2) International entrants (Flutterwave, Paystack/Stripe, Wave) entered 2020-2022 with massive capital. (3) Bank of Ghana PSP licence takes 12-24 months and requires GHS 20M+ capital. Failed Strategy: Competing with MTN MoMo directly on wallet share. Multiple well-funded Ghana FinTechs tried this and failed. You cannot out-invest an MNO with 17 million users and government relationships on their payment infrastructure. Winning Strategies: Four approaches succeeded: (1) Build ON the MNO rails as a middleware/API layer (Hubtel, Float, Fido). (2) Deep vertical: go niche in an underserved sub-sector (Zeepay: diaspora remittance; Farmsell: agri-payments). (3) Regulatory moat: get licensed first in a regulated sub-category — it takes 18 months and creates a real barrier. (4) B2B infrastructure: serve banks and fintechs as a B2B provider, not end users (Interswitch). Key Lesson: The payment layer is commoditised — competing on payments alone is a race to zero on fees. Winners build ABOVE the payment layer: credit decisions using transaction data, insurance using behavioural data, loyalty using payment history. DAY 4  |  MODULE 3
+[Notes for Slide 13]:
+PRESENTER NOTES — GHANA FINTECH CASE STUDY
+TIMING: 30 minutes | 1:45–2:15 PM
+
+TELL THE STORY:
+This case study teaches perhaps the most important competitive strategy lesson for all sectors — not just FinTech. The principle is: DON'T compete head-to-head with the infrastructure player. Build on top of their infrastructure and capture value above their layer.
+
+KEY TEACHING POINTS:
+1. MTN MoMo as a platform: startups that treated MoMo as a competitor failed. Startups that treated MoMo as a distribution rail succeeded. This mirrors Amazon AWS — startups that compete against AWS lose; startups that build on AWS win.
+2. Regulatory moat: Zeepay spent 18 months and significant capital getting UK FCA approval. This was not a cost of doing business — it was a deliberate competitive MOAT. No copycat could enter the UK-to-Ghana corridor quickly.
+3. Embedded finance: the 2024-2026 opportunity in Ghana FinTech is embedding credit/insurance/payments INSIDE non-financial apps (AgriTech, HealthTech, EdTech). This avoids competing in the crowded pure-fintech space.
+
+CONNECT TO ALL PARTICIPANTS (not just FinTech):
+"In your sector, who owns the rails? How can you build on top of them rather than against them?"
+- HealthTech: NHIA (National Health Insurance Authority) owns the health records and the enrolled patient base
+- AgriTech: MoFA extension services own farmer relationships and the last-mile distribution network
+- EdTech: Ghana Education Service owns the curriculum and the school system
+
+DISCUSSION QUESTION:
+"What is the equivalent of a 'regulatory moat' in YOUR sector? What licence, certification, or relationship would be very hard for a competitor to replicate quickly once you have it first?"
+
+FACILITATOR TIP:
+Draw the "layer cake" on whiteboard: Infrastructure → Payment Rails → API Middleware → Vertical Application → End User. Ask each team: "Which layer are you building on? Is that the right layer for your competitive strategy?"
+
+--- Slide 14 ---
+Competitive Insights — Strategic Action DAY 4  |  MODULE 3 Competition analysis is useless unless it changes what you do next. Four action strategies: ATTACK their weaknesses: If a competitor has poor local language support, launch in Twi first. If their onboarding takes 20 minutes, make yours 3 minutes. Win on their documented weaknesses. DEFEND your strengths: Build network effects, switching costs, and data moats around what makes you different. Make your advantage structurally hard to replicate. PARTNER with threats: Sometimes the smartest move is a strategic partnership. If you cannot beat them, integrate with them. Multiple Ghana FinTechs partnered WITH MTN MoMo instead of competing for wallet share. REPOSITION to avoid competition: Find an adjacent segment where competition is lower and your advantages are highest. Move from B2C urban farmers to B2B agricultural cooperatives — you avoid 50+ B2C competitors.
+[Notes for Slide 14]:
+PRESENTER NOTES — TURNING INSIGHT INTO ACTION
+TIMING: 20 minutes | 2:15–2:35 PM
+
+KEY TALKING POINTS:
+1. The Bolt vs. Uber example (not on slide but worth telling): Bolt entered Ghana by attacking Uber's weakness — Uber had no USSD booking option for feature phone users. Bolt offered lower driver commission AND phone-friendly booking. Simple competitive intelligence executed decisively.
+2. Repositioning (action 4) is psychologically the hardest but often the most powerful. Founders feel like they are "giving up" on their vision. Frame it differently: you are being strategic about where you compete, not giving up what you build.
+3. Partner-not-compete is underused in Ghana: many startups see every larger player as a threat. But an MTN or Vodafone partnership can give you immediate access to 5-15 million customers at near-zero CAC.
+
+LIVE COMMITMENT (2 min):
+Ask each participant to write on a sticky note: "My competitive action this week is [ATTACK/DEFEND/PARTNER/REPOSITION] by doing [specific action] because [one-sentence reason]."
+This converts the framework into an immediate commitment.
+
+FACILITATION TIP:
+This slide should feel energising and concrete. If the tone has been analytical and theoretical, shift to urgency: "In the next 60 days, what ONE competitive move will you make that you could not have made before this morning?"
+
+Transition straight to the exercise. "You now have the frameworks. Let's apply them to your own startup — right now."
+
+
+--- Slide 15 ---
+EXERCISE Build Your Competition Analysis A [10 min] Map your competitors: List 2+ direct, 2+ indirect, and 1+ substitute. For each: name, location, funding status, revenue model, and key strength vs. weakness. B [10 min] Porter's Five Forces: Rate each force (Low/Medium/High) for your sector. Write one sentence justification for each rating — what evidence supports your assessment? C [10 min] Competitive SWOT: Choose your #1 direct competitor. Fill in a 2x2 comparative SWOT — your startup vs. theirs — on Strengths, Weaknesses, Opportunities, Threats. D [10 min] Positioning map: Choose 2 axes that matter to your customers. Plot your startup and 3+ competitors. Identify and label your differentiated position and any white space. E [5 min] Define your moat: In 2-3 sentences, articulate your startup's defensible competitive advantage. Why will customers stay with you as better-funded competitors grow? Deliverable: A competition analysis slide for your investor pitch deck — competitor map, positioning visual, and a one-paragraph moat statement DAY 4  |  MODULE 3
+[Notes for Slide 15]:
+PRESENTER NOTES — DAY 4 EXERCISE
+TIMING: 45 minutes | 3:00–3:45 PM
+
+FACILITATION STRUCTURE:
+- 0-3 min: Read brief aloud, clarify questions, confirm working format (individual or teams)
+- 3-38 min: Working time — walk the room constantly. The most important coaching moments happen here.
+- 38-45 min: 3 teams present their positioning map + moat statement (90 seconds each). Facilitator + peers give 1 challenge question each.
+
+KEY COACHING INTERVENTIONS BY TASK:
+- Task 1 (competitor mapping): Red flag = "we have no direct competitors." Ask: "What would your target customer do tomorrow if your product disappeared? THAT is your substitute competitor — name it."
+- Task 2 (Five Forces): Most will rate everything "Medium." Push for specificity: "Why is buyer power Medium? What evidence from your customer conversations supports that? What would have to change to make it Low?"
+- Task 3 (competitive SWOT): Most common error: Strengths list is too long (10+ items) and Weaknesses list is too short (1-2 generic items). Challenge: "A neutral third party, with no stake in your startup's success — would they agree with this Strengths list?"
+- Task 4 (positioning map): The axes matter enormously. If teams choose Price vs Features (the two most obvious), ask: "Are those genuinely the dimensions your customer makes their decision on? Or is it Trust vs Speed? Language support vs Price?"
+- Task 5 (moat statement): The most important output. Most will describe a feature, not a moat. Coach the distinction: "A feature can be copied in 3 months. A moat takes years to build. Network effects, regulatory moat, proprietary data, relationships built over time, trust in a specific community — these are moats."
+
+MOAT TYPES TO COACH ON:
+- Network effects: value grows as more users join (Tonaton listings, MoMo wallet network)
+- Switching costs: painful for a customer to leave once their data/workflows are inside your product
+- Data moat: proprietary data accumulated over years that no competitor can replicate (Farmerline's 500k farmer profiles)
+- Regulatory moat: first mover who gets a difficult licence creates a 12-24 month barrier for followers
+- Relationship/trust moat: farmer associations, teacher networks, community health worker relationships built over years
+- Brand moat: local language brand recognition that takes years and deep community presence to build
+
+FACILITATION TIP:
+The moat discussion in presentations is always the most contentious and most valuable. Let peer challenges happen — do not protect teams from hard questions. "Why can't a better-funded competitor copy that in 6 months?" is the right question to ask every moat statement.
+
+--- Slide 16 ---
+Day 4 Key Takeaways DAY 4  |  MODULE 3 1 Map All 3 Competitor Types Direct, indirect, and substitute. 'Doing nothing' is often your biggest competitor for social impact solutions. If you only mapped direct competitors, you have a dangerous blind spot. 2 Porter's Five Forces A sector-level lens. Use it to assess whether your industry is structurally attractive. High forces across multiple dimensions means you must build strong moats early to survive. 3 Position Deliberately Competitive positioning maps communicate your market context to investors in 30 seconds. Choose axes that reflect real customer decision criteria — not whatever shows you best. 4 Moats Over Features Features can be copied in 3 months. True moats — network effects, data, regulatory compliance, community trust, language — take years to build and cannot be bought. 5 Act on Your Insights Attack competitor weaknesses, defend your strengths, partner with threats, or reposition to avoid direct competition. Choose ONE action and execute it in the next 30 days.
+[Notes for Slide 16]:
+PRESENTER NOTES — KEY TAKEAWAYS
+TIMING: 8 minutes | 3:45–3:53 PM
+
+DEBRIEF:
+For each takeaway, ask for a live example from today's exercise. Do not just read — make participants confirm understanding with their own startup's context.
+
+SELF-ASSESSMENT:
+Ask: "Show of hands — who feels genuinely more confident about their competitive position NOW than at 9 AM?" Then: "Who found a competitor or threat today they had NOT identified before this session?"
+
+Both questions create closure and reinforce the value of the day. The second question is usually unanimous.
+
+CLOSING STATEMENT:
+"Over the last 4 days you have built: a Business Model Canvas, a Business Model Type justification, a Revenue Model with unit economics and forecast, and a Competition Analysis with a positioning map and moat statement. These are the four pillars of any investor pitch deck. You are now more prepared than most founders who have been running for two years."
+
+--- Slide 17 ---
+Module 3 Complete — Programme Next Steps DAY 4  |  MODULE 3 You have completed Module 3: Business. Here is what happens next in the MEST / UNICEF StartUp Lab Ghana programme: Submit All 4 Exercise Outputs: Upload your BMC (Day 1), Business Model Summary (Day 2), Revenue Model + Forecast (Day 3), and Competition Analysis (Day 4) to the MEST portal. Deadline: end of this week. Book Your Mentor 1:1 Session: Each participant gets a 30-minute review with a MEST/UNICEF mentor. Focus: revenue model validation and competition analysis. Book via the programme calendar by tomorrow. Prepare for Module 4: Module 4 is Pitch & Investment Readiness. Your 4 outputs from this week become slides in your investor pitch deck. Prepare a 3-minute verbal pitch summary before Module 4 starts. Peer Accountability Pact: Exchange contact details with 2 peers today. Commit: you will review each other's pitch deck before the Module 4 presentation day. Peer feedback makes decks 40% stronger. Digital Public Goods (DPG) Pathway: UNICEF's DPG team will identify 2-3 startups from this cohort with strong social impact metrics and sustainable revenue models for the DPG recognition pathway. Ask the programme team for criteria.
+[Notes for Slide 17]:
+PRESENTER NOTES — PROGRAMME WRAP-UP
+TIMING: 5 minutes | 3:53–3:58 PM
+
+KEY TALKING POINTS:
+1. Acknowledge: 4-day intensive business training = real achievement. Most founders spend years acquiring these frameworks — this cohort has done it in 4 days.
+2. The DPG pathway (step 5) is a unique opportunity specific to this UNICEF programme. Encourage participants to ask the programme team about the criteria immediately.
+3. Module 4 connection: everything produced in Module 3 feeds directly into the investor pitch deck. Participants who invest in polishing their outputs this weekend will have a much stronger pitch.
+
+RECOGNITION MOMENT:
+Invite 2-3 mentors or facilitators to share one standout observation from the week.
+Ask 2 participants: "What is the single insight from this week that most changed how you think about your startup?"
+
+FACILITATION TIP:
+End the formal content portion here. The next slide is the final thank you — leave it on screen during feedback form collection and informal networking.
+
+--- Slide 18 ---
+UNICEF STARTUP LAB GHANA  |  MODULE 3 COMPLETE Thank You. You now have the commercial toolkit to build, defend, and scale a startup that matters. 4 Days  |  4 Frameworks  |  1 Business Built to Last Business Model Canvas  |  Model Type  |  Revenue Model  |  Competition Analysis MEST Africa  |  UNICEF Ghana  |  KOICA  |  StartUp Lab Ghana Cohort 2024
+[Notes for Slide 18]:
+PRESENTER NOTES — FINAL THANK YOU SLIDE
+Leave on screen during feedback form collection and networking (approx. 2-5 minutes)
+
+CLOSING WORD (deliver standing, without slides):
+"Every framework you learned this week was tested by Ghanaian and African startups before you — some who succeeded, some who failed. What you take from here is not just the tools, but the mindset: data over assumptions, customers over features, strategy over hope. Go build something that changes lives."
+
+FINAL ACTIONS:
+- Collect feedback forms before participants leave (NPS + 3 open questions)
+- Programme team introduces themselves for post-programme questions
+- Group photo opportunity
+- Send follow-up package within 24 hours: exercise templates, case study links, mentor booking calendar, cohort WhatsApp group invite
+
+UNICEF LEGACY:
+Participants who demonstrate strong social impact + sustainable revenue model + competition analysis depth will be recommended for UNICEF's DPG (Digital Public Goods) recognition pathway.
