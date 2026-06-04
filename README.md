@@ -590,7 +590,7 @@ await supabase
 
 ## License
 
-© 2025 Codesrock Labs Ltd. All rights reserved.
+© 2026 Codesrock Labs Ltd. All rights reserved.
 
 ---
 
