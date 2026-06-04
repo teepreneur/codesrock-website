@@ -176,6 +176,36 @@ const ParentContent = () => {
             <span className="bg-[#FDC82F]/20 text-[#FDC82F] text-xs px-2 py-1 rounded border border-[#FDC82F]/30">one-time payment</span>
           </div>
         </div>
+
+        {/* Parent Advocacy / Ambassador Card */}
+        <div className="bg-[#FFF8F5] border-2 border-dashed border-[#FF7340]/30 rounded-[2rem] p-8 relative overflow-hidden">
+          <div className="absolute top-0 right-0 w-24 h-24 bg-[#FF7340]/5 rounded-full -mr-8 -mt-8"></div>
+          <h3 className="text-xl font-bold text-gray-900 mb-3 flex items-center gap-2">
+            <span className="text-2xl">📣</span>
+            Bring CodesRock to Your School
+          </h3>
+          <p className="text-sm text-gray-600 mb-6 leading-relaxed">
+            Help us bring a <strong>Screen-Free STEM Lab</strong> to your child's classroom. Become a CodesRock Ambassador and unlock exclusive educational advantages, including <strong>free coding bootcamps, upgraded home robots, and branded souvenirs</strong> for your child.
+          </p>
+          <div className="flex flex-wrap gap-3">
+            <a 
+              href="https://github.com/teepreneur/codesrock-website/blob/main/marketing_campaign/Customer_journey_docs/1_parent_advocacy_invitation.md"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-xs bg-[#FF7340] text-white px-4 py-2.5 rounded-lg font-bold hover:bg-[#e05624] transition-all flex items-center gap-1 shadow-sm"
+            >
+              View Ambassador Perks
+            </a>
+            <a 
+              href="https://wa.me/233544198026?text=I%20want%20to%20help%20bring%20CodesRock%20to%20my%20child's%20school"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-xs bg-white text-gray-700 border border-gray-200 px-4 py-2.5 rounded-lg font-bold hover:bg-gray-50 transition-all flex items-center gap-1"
+            >
+              Chat on WhatsApp
+            </a>
+          </div>
+        </div>
       </div>
 
       {/* Right Column: Comprehensive Form */}

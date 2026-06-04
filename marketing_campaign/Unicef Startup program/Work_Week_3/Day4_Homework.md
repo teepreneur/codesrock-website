@@ -126,7 +126,8 @@ Import/High-Infra <--------------------+--------------------> Local Resource Acc
 ---
 
 ### E. Defensive Moat Statement
-CodesRock’s long-term defensibility rests on a triple-layer moat:
+CodesRock’s long-term defensibility rests on a quadruple-layer moat:
 1. **High Switching Costs via Teacher Portal Integration:** Once a school's staff is trained and actively tracking student learning outcomes and lesson plans on `app.codesrock.com`, replacing our program requires re-training staff and losing historical development analytics.
 2. **Proprietary Hardware-Curriculum Synergy:** The physical Rockbot hardware, custom tactile cards, and locally printed activity books are designed in synergy, making the ecosystem difficult to replicate by a pure-software or imported hardware competitor.
 3. **Institutional Trust & Localized Alignment:** Our Ghanaian-themed curriculum (local counting songs, storytelling, cultural maps) is fully aligned with the Ghana Education Service (GES) early learning standards and validated by strategic partnerships with UNICEF Ghana and MEST Africa.
+4. **Community-Driven Parent Advocacy Loop:** We convert parent interest and screen-time concerns into bottom-up advocacy, where parents make warm introductions directly to school heads. This community-led approach drives B2B onboarding, pre-warms our sales pipeline, and forms a localized distribution moat that global, purely commercial competitors cannot easily replicate.

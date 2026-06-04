@@ -248,10 +248,11 @@ We have completed a comprehensive competitor mapping and SWOT analysis to positi
 - CodesRock occupies the top-right quadrant: **Tactile & Screen-Free** and **Locally Accessible** (low cost, zero screen infrastructure requirements).
 
 #### Defensive Moat Statement:
-> CodesRock’s long-term defensibility rests on a triple-layer moat:
+> CodesRock’s long-term defensibility rests on a quadruple-layer moat:
 > 1. **High Switching Costs via Teacher Portal Integration:** Once a school's staff is trained and actively tracking student learning outcomes and lesson plans on `app.codesrock.com`, replacing our program requires re-training staff and losing historical development analytics.
 > 2. **Proprietary Hardware-Curriculum Synergy:** The physical Rockbot hardware, custom tactile cards, and locally printed activity books are designed in synergy, making the ecosystem difficult to replicate by a pure-software or imported hardware competitor.
 > 3. **Institutional Trust & Localized Alignment:** Our Ghanaian-themed curriculum (local counting songs, storytelling, cultural maps) is fully aligned with the Ghana Education Service (GES) early learning standards and validated by strategic partnerships with UNICEF Ghana and MEST Africa.
+> 4. **Community-Driven Parent Advocacy Loop:** We convert parent interest and screen-time concerns into bottom-up advocacy, where parents make warm introductions directly to school heads. This community-led approach drives B2B onboarding, pre-warms our sales pipeline, and forms a localized distribution moat that global, purely commercial competitors cannot easily replicate.
 
 ---
 
@@ -290,13 +291,11 @@ This script has been optimized for the **Business Module (Module 3)** panel, foc
 And we don't just empower the child: we empower the teacher. Our Teacher Portal at `app.codesrock.com` provides step-by-step guides and progress tracking, removing the IT skill gap for early educators."
 
 #### 3. The B2B2C Commercial Model (60 seconds)
-"Our commercial engine is built for the African market. For private schools, we charge a standard onboarding fee of **₵5,850**, which includes their first term of Portal access and support. Starting Term 2, we charge a monthly subscription of **₵50 per teacher and ₵5 per student** to support custom progress tracking. 
+"Our commercial engine leverages a proprietary community-led advocacy loop to acquire school partners at a highly optimized CAC. The moment a parent shows interest in screen-free coding, we invite them to become a CodesRock Ambassador. They introduce us to their school heads, motivated by educational perks like free advanced workshops, upgraded hardware access, and branded souvenirs for their children. 
 
-As the program scales, private schools purchase recurring annual student Activity Books at **₵150 per student**. Best of all, they indirectly transfer these costs to parents—meaning the school acts as our trusted channel, while the parent remains the paying consumer. 
+This bottom-up parent advocacy bypasses cold B2B sales cycles and pre-warms our school leads. We also offer an optional, target-driven paid representative track for parents and networkers who want to build a career onboarding schools. 
 
-For government schools, where direct parent fees are not viable, we deploy a sponsored Public-Private Partnership model. Here, corporate CSR partners or development agencies sponsor a subsidized onboarding kit at **₵3,600** per school, with recurring books funded at a subsidized rate of **₵50 per student** and fully sponsored portal access.
-
-With a Customer Acquisition Cost of ₵1,200 and a 3-year Lifetime Value of ₵65,250 per private school, we achieve a highly scalable **54x LTV to CAC ratio**."
+Once a school is onboarded, they pay a standard ₵5,850 onboarding fee. Starting Term 2, we charge a monthly subscription of ₵50 per teacher and ₵5 per student for progress tracking. Schools purchase recurring annual student activity books at ₵150 per student, transferring these costs to parents—meaning the school acts as our trusted channel, while the parent remains the consumer."
 
 #### 4. Traction & Scaling Ask (60 seconds)
 "To date, we have partnered with **9 leading educational institutions**, impacting over **317 children** and measuring a **+200% improvement in collaborative problem-solving**. 

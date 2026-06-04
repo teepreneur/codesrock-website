@@ -23,11 +23,20 @@ We’ve prepared everything you need to make a professional and impactful introd
 
 ---
 
-### 🎁 Your Rewards Tracker
-Remember, as an Ambassador, you’re entitled to:
-*   **500₵ Referral Bonus** for every school that signs up.
-*   **20% Lifetime Discount** on Home Kit upgrades.
-*   **A "Certified Parent Ambassador" Badge** for your social media.
+### 🎁 Your Ambassador Perks & Recognition
+As an Ambassador, you and your child are entitled to:
+*   **Free Coding Workshops**: Invitations to advanced offline coding and robotics bootcamps.
+*   **Upgraded Hardware Access**: Free upgrades to future iterations of the Rockbot and sensor expansion packs.
+*   **CodesRock Souvenir Pack**: Branded CodesRock hoodies, school bags, and learning accessories for your child.
+*   **School & Community Recognition**: A certificate of appreciation presented at the school's official launch event and feature profiles in our network updates.
+
+---
+
+### 💼 Transition to a Paid Representative (Optional)
+If you have a strong network of school heads and want to take your involvement further:
+*   Any Ambassador (or community member) can opt to transition into a **Paid Sales Representative**.
+*   Paid representatives are given specific school-onboarding targets and earn direct commission on closed school deals, while still keeping all parent ambassador benefits.
+*   *Interested in this path? Let us know on WhatsApp to request our agent agreement sheet.*
 
 ---
 
