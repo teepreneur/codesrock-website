@@ -43,32 +43,33 @@ We estimate our B2B unit economics over a standard 3-year school partnership lif
 
 ---
 
-### D. 12-Month Bottom-Up Revenue Forecast
-Our bottom-up forecast is built on a realistic monthly sales capacity: onboarding **3 new private schools** and **1 new government school** per month, starting with our **9 existing active private schools** (which are in Term 2 and paying subscriptions from Month 1). We also project **5 B2C Home Kit sales** monthly. All revenues subtract a **2% transaction fee** for MoMo/card billing gateways.
+### D. 12-Month Bottom-Up Revenue Forecast (Private-School Focus)
+Our bottom-up forecast is built on a realistic monthly sales capacity of onboarding **3 new private schools** per month, starting with our **9 existing active private schools** (which are in Term 2 and paying subscriptions from Month 1). We also project **5 B2C Home Kit sales** monthly. All revenues subtract a **2% transaction fee** for MoMo/card billing gateways. 
+
+*Government schools are excluded from these projections as we market directly to private schools and will only onboard government schools upon securing third-party corporate/NGO sponsorships.*
 
 #### Month-by-Month Forecast Table (All figures in GHS)
 
-| Month | Active Subs (Schools) | New Private (Schools) | New Govt (Schools) | Subs Revenue | Private Onboarding | Private Books | Govt Onboarding | Govt Books | B2C Kits | Gross Revenue | Gateway Fee (2%) | Net Revenue |
-| :--- | :---: | :---: | :---: | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **M1** | 9 | 3 | 1 | 5,400 | 17,550 | 45,000 | 3,600 | 7,500 | 12,150 | 91,200 | 1,824 | **89,376** |
-| **M2** | 9 | 3 | 1 | 5,400 | 17,550 | 45,000 | 3,600 | 7,500 | 12,150 | 91,200 | 1,824 | **89,376** |
-| **M3** | 9 | 3 | 1 | 5,400 | 17,550 | 45,000 | 3,600 | 7,500 | 12,150 | 91,200 | 1,824 | **89,376** |
-| **M4** | 12 | 3 | 1 | 7,200 | 17,550 | 45,000 | 3,600 | 7,500 | 12,150 | 93,000 | 1,860 | **91,140** |
-| **M5** | 15 | 3 | 1 | 9,000 | 17,550 | 45,000 | 3,600 | 7,500 | 12,150 | 94,800 | 1,896 | **92,904** |
-| **M6** | 18 | 3 | 1 | 10,800 | 17,550 | 45,000 | 3,600 | 7,500 | 12,150 | 96,600 | 1,932 | **94,668** |
-| **M7** | 21 | 3 | 1 | 12,600 | 17,550 | 45,000 | 3,600 | 7,500 | 12,150 | 98,400 | 1,968 | **96,432** |
-| **M8** | 24 | 3 | 1 | 14,400 | 17,550 | 45,000 | 3,600 | 7,500 | 12,150 | 100,200 | 2,004 | **98,196** |
-| **M9** | 27 | 3 | 1 | 16,200 | 17,550 | 45,000 | 3,600 | 7,500 | 12,150 | 102,000 | 2,040 | **99,960** |
-| **M10** | 30 | 3 | 1 | 18,000 | 17,550 | 45,000 | 3,600 | 7,500 | 12,150 | 103,800 | 2,076 | **101,724** |
-| **M11** | 33 | 3 | 1 | 19,800 | 17,550 | 45,000 | 3,600 | 7,500 | 12,150 | 105,600 | 2,112 | **103,488** |
-| **M12** | 36 | 3 | 1 | 21,600 | 17,550 | 45,000 | 3,600 | 7,500 | 12,150 | 107,400 | 2,148 | **105,252** |
-| **Total**| - | **36** | **12** | **134,400** | **210,600** | **540,000** | **43,200** | **90,000** | **145,800** | **1,164,000** | **23,280** | **1,140,720** |
+| Month | Paying Subs (Private) | New Private Onboarded | Subs Revenue (Private) | New School Onboarding (One-time) | New School Books (One-time) | B2C Kits | Gross Revenue | Gateway Fee (2%) | Net Revenue |
+| :--- | :---: | :---: | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **M1** | 9 | 3 | 5,400 | 17,550 | 45,000 | 12,150 | 80,100 | 1,602 | **78,498** |
+| **M2** | 9 | 3 | 5,400 | 17,550 | 45,000 | 12,150 | 80,100 | 1,602 | **78,498** |
+| **M3** | 9 | 3 | 5,400 | 17,550 | 45,000 | 12,150 | 80,100 | 1,602 | **78,498** |
+| **M4** | 12 | 3 | 7,200 | 17,550 | 45,000 | 12,150 | 81,900 | 1,638 | **80,262** |
+| **M5** | 15 | 3 | 9,000 | 17,550 | 45,000 | 12,150 | 83,700 | 1,674 | **82,026** |
+| **M6** | 18 | 3 | 10,800 | 17,550 | 45,000 | 12,150 | 85,500 | 1,710 | **83,790** |
+| **M7** | 21 | 3 | 12,600 | 17,550 | 45,000 | 12,150 | 87,300 | 1,746 | **85,554** |
+| **M8** | 24 | 3 | 14,400 | 17,550 | 45,000 | 12,150 | 89,100 | 1,782 | **87,318** |
+| **M9** | 27 | 3 | 16,200 | 17,550 | 45,000 | 12,150 | 90,900 | 1,818 | **89,082** |
+| **M10** | 30 | 3 | 18,000 | 17,550 | 45,000 | 12,150 | 92,700 | 1,854 | **90,846** |
+| **M11** | 33 | 3 | 19,800 | 17,550 | 45,000 | 12,150 | 94,500 | 1,890 | **92,610** |
+| **M12** | 36 | 3 | 21,600 | 17,550 | 45,000 | 12,150 | 96,300 | 1,926 | **94,374** |
+| **Total**| - | **36** | **145,800** | **210,600** | **540,000** | **145,800** | **1,042,200** | **20,844** | **1,021,356** |
 
 *Key Forecasting Assumptions:*
-- **Private School Enrollment:** Average private school onboards with 100 active KG/early-grade students buying GHS 150 books.
-- **Government School Enrollment:** Average public school has 150 students buying subsidized GHS 50 books (funded by sponsor).
-- **Subscription Collection Rate:** 100% collection of subscription fees billed termly via automated MoMo/card invoices on the Teacher Portal. Churn is set to a low 1% due to intensive school support.
-- **1-Term Free Portal Lag:** Subscription revenues for new private schools start in Month 4 (retained paying state). M1-M3 new schools start paying in M4-M6 respectively.
+- **Private School Onboarding Fee:** Paid only **once** per school upon joining the program (GHS 5,850). The GHS 17,550/month in the table is from the 3 *new* schools onboarding that month, not repeat payments from existing schools.
+- **Private School Books:** Purchased **once a year** at onboarding at GHS 150 per student (average 100 students = GHS 15,000/school). The GHS 45,000/month represents book sales to the 3 *new* schools onboarding in that month. Existing schools do not purchase books monthly; their annual renewals are excluded from this 12-month window for conservatism.
+- **Subscription Collection Rate:** Monthly portal subscriptions (GHS 50/teacher + GHS 5/student) start in Month 4 for new schools (1-term free lag). Existing 9 schools pay GHS 600/month starting Month 1. Churn is set to a low 1%.
 
 ---
 

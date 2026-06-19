@@ -27,9 +27,13 @@ const Navigation = () => {
   }, [mobileMenuOpen]);
 
   const scrollToSection = (sectionId) => {
-    const section = document.getElementById(sectionId);
-    if (section) {
-      section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    if (window.location.pathname !== '/') {
+      window.location.href = '/#' + sectionId;
+    } else {
+      const section = document.getElementById(sectionId);
+      if (section) {
+        section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
     }
     setMobileMenuOpen(false);
   };
@@ -38,6 +42,8 @@ const Navigation = () => {
     const form = document.querySelector('form');
     if (form) {
       form.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    } else {
+      window.location.href = '/#contact';
     }
     setMobileMenuOpen(false);
   };
@@ -60,7 +66,7 @@ const Navigation = () => {
         <div className="flex justify-between items-center h-20 md:h-24">
           {/* Logo Image */}
           <a
-            href="#"
+            href="/"
             className="flex-shrink-0 group cursor-pointer transition-transform hover:scale-105 duration-300 relative z-50 flex items-center gap-2 md:gap-3"
             aria-label="CodesRock Labs Home"
           >
