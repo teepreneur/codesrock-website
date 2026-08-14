@@ -44,3 +44,27 @@ Thank you for being the ultimate mentors, the first "debuggers" of life's challe
 Wishing all the amazing moms a day full of love, rest, and joy. You make the world a smarter, better place! 🚀✨
 
 #MothersDayGhana #SuperMom #CodesRock #LogicLeaders #GhanaMoms #Motherhood #BuildingTheFuture
+
+---
+---
+
+## Ghana Father's Day 2026
+
+**Visual Location:** [ghana_fathers_day_2026.png](file:///Users/triumphtetteh/Documents/CodeRock_web/codesrock-react/marketing_campaign/rocky_posts/ghana_fathers_day_2026.png)
+
+**Visual Brief:**
+Rocky the Mascot is sitting on a warm wooden floor in a cozy, sunlit living room with a young Black father and his 5-year-old son. They are happily building a toy train track using colorful wooden blocks together. The father is smiling warmly, guiding his son's hands, while Rocky holds a green block, smiling and cheering them on. No screens or electronic devices are visible.
+
+---
+
+### ✍️ Social Media Caption
+
+Happy Father’s Day to all the amazing Dads and father figures in Ghana! 👨‍👦🇬🇭✨
+
+At CodesRock, we celebrate the fathers who build the foundation, guide the path, and help our future leaders piece together their biggest dreams. 🧱🛠️
+
+Thank you for being the ultimate architects of curiosity, the patient teachers of problem-solving, and the ones who encourage us to keep building, block by block. Today, we celebrate you! 🤘🧡
+
+Whether you are building logic trains, playing outdoor games, or debugging life’s little challenges—you are creating a future full of potential. Enjoy your day, you deserve it! 🚀✨
+
+#FathersDayGhana #LogicDads #CodesRock #BuildingTheFuture #ActivePlay #GhanaDads #LogicSquad #PlayThinkCodeGrow
