@@ -123,45 +123,62 @@ const AttendLaunchPage = () => {
       <Navigation />
 
       {/* Hero Section */}
-      <section className="relative z-10 max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-24 pb-12 md:pt-32 md:pb-16 text-center">
-        {/* Rocky 3D Mascot Header */}
-        <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-6">
-          <div className="relative group">
+      <section className="relative z-10 max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-20 pb-12 md:pt-28 md:pb-16 text-center">
+        
+        {/* Rocky 3D Speech Bubble & Portal Pointing Showcase */}
+        <div className="flex flex-col md:flex-row items-center justify-center gap-6 mb-8 max-w-4xl mx-auto">
+          {/* Rocky 3D Avatar */}
+          <div className="relative group shrink-0">
+            <div className="absolute -inset-2 bg-gradient-to-r from-[#FF7340] via-[#FDC82F] to-[#46C5D5] rounded-full blur-md opacity-40 group-hover:opacity-75 transition duration-500 animate-pulse"></div>
             <img 
               src="/rocky_3d.png" 
-              alt="Rocky 3D pointing to Online Teacher Portal" 
-              className="w-24 h-24 md:w-32 md:h-32 object-contain drop-shadow-xl hover:scale-105 transition-transform duration-300"
+              alt="Rocky 3D Mascot pointing to the Teacher Portal" 
+              className="relative w-28 h-28 md:w-36 md:h-36 object-contain drop-shadow-2xl hover:scale-105 transition-transform duration-300"
             />
           </div>
-          <div className="inline-flex items-center gap-2 bg-[#FFF4F0] border border-[#FF7340]/30 text-[#FF7340] px-5 py-2.5 rounded-full shadow-sm text-sm font-bold animate-pulse">
-            <Sparkles className="w-5 h-5" />
-            <span>Rocky Invites You: <strong>Online Teacher Portal Launch</strong></span>
+
+          {/* Speech Bubble / Event Callout */}
+          <div className="relative bg-white/90 backdrop-blur-xl p-5 md:p-6 rounded-3xl border border-gray-200/80 shadow-xl text-center md:text-left max-w-xl">
+            {/* Speech bubble tail for desktop */}
+            <div className="hidden md:block absolute -left-3 top-1/2 -translate-y-1/2 w-0 h-0 border-t-[10px] border-t-transparent border-r-[14px] border-r-white/90 border-b-[10px] border-b-transparent"></div>
+            {/* Speech bubble tail for mobile */}
+            <div className="md:hidden absolute -top-3 left-1/2 -translate-x-1/2 w-0 h-0 border-l-[10px] border-l-transparent border-b-[14px] border-b-white/90 border-r-[10px] border-r-transparent"></div>
+            
+            <div className="inline-flex items-center gap-2 bg-[#FFF4F0] border border-[#FF7340]/20 text-[#FF7340] px-3.5 py-1 rounded-full text-xs font-extrabold uppercase tracking-wider mb-2">
+              <Sparkles className="w-3.5 h-3.5" />
+              Live Virtual Launch Event
+            </div>
+            <p className="text-gray-900 font-bold text-lg md:text-xl leading-snug">
+              "Welcome to our new <span className="text-[#FF7340]">Online Teacher Portal!</span> Explore screen-free lesson plans and early grade coding logic."
+            </p>
           </div>
         </div>
+
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold text-gray-900 tracking-tight mb-6 max-w-4xl mx-auto leading-tight">
           The Screen-Free Future of <span className="text-[#FF7340]">STEM Education.</span>
         </h1>
-        <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-8 leading-relaxed">
-          Join CodesRock Labs for the live launch of our open-source **Teacher Portal**—a Digital Public Good bridging the coding and robotics gap for preschools, KG, and early grades.
+        
+        <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-10 leading-relaxed">
+          Join CodesRock Labs for the live launch of our open-source <strong className="text-gray-900 font-bold">Teacher Portal</strong>—a Digital Public Good bridging the coding and robotics gap for preschools, KG, and early grades.
         </p>
 
         {/* Quick Details Grid */}
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-3xl mx-auto mb-12">
-          <div className="flex items-center gap-4 bg-white/70 backdrop-blur-md rounded-2xl p-5 border border-gray-200/50 shadow-sm">
+          <div className="flex items-center gap-4 bg-white/80 backdrop-blur-md rounded-2xl p-5 border border-gray-200/60 shadow-md hover:shadow-lg transition-all">
             <Calendar className="w-8 h-8 text-[#FF7340] shrink-0" />
             <div className="text-left">
               <p className="text-xs text-gray-400 uppercase tracking-widest font-bold">Date</p>
               <p className="text-sm font-bold text-gray-800">Tuesday, June 30</p>
             </div>
           </div>
-          <div className="flex items-center gap-4 bg-white/70 backdrop-blur-md rounded-2xl p-5 border border-gray-200/50 shadow-sm">
+          <div className="flex items-center gap-4 bg-white/80 backdrop-blur-md rounded-2xl p-5 border border-gray-200/60 shadow-md hover:shadow-lg transition-all">
             <Clock className="w-8 h-8 text-[#46C5D5] shrink-0" />
             <div className="text-left">
               <p className="text-xs text-gray-400 uppercase tracking-widest font-bold">Time</p>
               <p className="text-sm font-bold text-gray-800">4:00 PM GMT</p>
             </div>
           </div>
-          <div className="flex items-center gap-4 bg-white/70 backdrop-blur-md rounded-2xl p-5 border border-gray-200/50 shadow-sm">
+          <div className="flex items-center gap-4 bg-white/80 backdrop-blur-md rounded-2xl p-5 border border-gray-200/60 shadow-md hover:shadow-lg transition-all">
             <MapPin className="w-8 h-8 text-[#5D3B98] shrink-0" />
             <div className="text-left">
               <p className="text-xs text-gray-400 uppercase tracking-widest font-bold">Location</p>
