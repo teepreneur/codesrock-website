@@ -124,9 +124,19 @@ const AttendLaunchPage = () => {
 
       {/* Hero Section */}
       <section className="relative z-10 max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-24 pb-12 md:pt-32 md:pb-16 text-center">
-        <div className="inline-flex items-center gap-2 bg-[#FFF4F0] border border-[#FF7340]/20 text-[#FF7340] px-4 py-2 rounded-full text-sm font-bold mb-6 animate-bounce-once">
-          <Sparkles className="w-4 h-4" />
-          Virtual Portal Launch Event
+        {/* Rocky 3D Mascot Header */}
+        <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-6">
+          <div className="relative group">
+            <img 
+              src="/rocky_3d.png" 
+              alt="Rocky 3D pointing to Online Teacher Portal" 
+              className="w-24 h-24 md:w-32 md:h-32 object-contain drop-shadow-xl hover:scale-105 transition-transform duration-300"
+            />
+          </div>
+          <div className="inline-flex items-center gap-2 bg-[#FFF4F0] border border-[#FF7340]/30 text-[#FF7340] px-5 py-2.5 rounded-full shadow-sm text-sm font-bold animate-pulse">
+            <Sparkles className="w-5 h-5" />
+            <span>Rocky Invites You: <strong>Online Teacher Portal Launch</strong></span>
+          </div>
         </div>
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold text-gray-900 tracking-tight mb-6 max-w-4xl mx-auto leading-tight">
           The Screen-Free Future of <span className="text-[#FF7340]">STEM Education.</span>
