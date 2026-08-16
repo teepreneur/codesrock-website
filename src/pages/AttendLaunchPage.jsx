@@ -148,21 +148,21 @@ const AttendLaunchPage = () => {
             <Calendar className="w-8 h-8 text-[#FF7340] shrink-0" />
             <div className="text-left">
               <p className="text-xs text-gray-400 uppercase tracking-widest font-bold">Date</p>
-              <p className="text-sm font-bold text-gray-800">Tuesday, June 30</p>
+              <p className="text-sm font-bold text-gray-800">Saturday, August 29</p>
             </div>
           </div>
           <div className="flex items-center gap-4 bg-white/80 backdrop-blur-md rounded-2xl p-5 border border-gray-200/60 shadow-md hover:shadow-lg transition-all">
             <Clock className="w-8 h-8 text-[#46C5D5] shrink-0" />
             <div className="text-left">
               <p className="text-xs text-gray-400 uppercase tracking-widest font-bold">Time</p>
-              <p className="text-sm font-bold text-gray-800">4:00 PM GMT</p>
+              <p className="text-sm font-bold text-gray-800">6:00 PM GMT</p>
             </div>
           </div>
           <div className="flex items-center gap-4 bg-white/80 backdrop-blur-md rounded-2xl p-5 border border-gray-200/60 shadow-md hover:shadow-lg transition-all">
             <MapPin className="w-8 h-8 text-[#5D3B98] shrink-0" />
             <div className="text-left">
               <p className="text-xs text-gray-400 uppercase tracking-widest font-bold">Location</p>
-              <p className="text-sm font-bold text-gray-800">Live Online (Zoom)</p>
+              <p className="text-sm font-bold text-gray-800">YouTube Live</p>
             </div>
           </div>
         </div>
@@ -182,7 +182,7 @@ const AttendLaunchPage = () => {
               
               <div className="space-y-6">
                 <div className="flex gap-4 items-start">
-                  <div className="bg-[#FFF4F0] p-2.5 rounded-xl text-[#FF7340] font-bold text-sm shrink-0">16:00</div>
+                  <div className="bg-[#FFF4F0] p-2.5 rounded-xl text-[#FF7340] font-bold text-sm shrink-0">18:00</div>
                   <div>
                     <h3 className="text-lg font-bold text-gray-800">Introduction & CodesRock Labs Mission</h3>
                     <p className="text-gray-500 text-sm mt-1">
@@ -192,7 +192,7 @@ const AttendLaunchPage = () => {
                 </div>
 
                 <div className="flex gap-4 items-start">
-                  <div className="bg-[#E8FAFC] p-2.5 rounded-xl text-[#46C5D5] font-bold text-sm shrink-0">16:15</div>
+                  <div className="bg-[#E8FAFC] p-2.5 rounded-xl text-[#46C5D5] font-bold text-sm shrink-0">18:15</div>
                   <div>
                     <h3 className="text-lg font-bold text-gray-800">The CodesRock Ecosystem Showcase</h3>
                     <p className="text-gray-500 text-sm mt-1">
@@ -202,7 +202,7 @@ const AttendLaunchPage = () => {
                 </div>
 
                 <div className="flex gap-4 items-start">
-                  <div className="bg-[#F3E8FF] p-2.5 rounded-xl text-[#5D3B98] font-bold text-sm shrink-0">16:30</div>
+                  <div className="bg-[#F3E8FF] p-2.5 rounded-xl text-[#5D3B98] font-bold text-sm shrink-0">18:30</div>
                   <div>
                     <h3 className="text-lg font-bold text-gray-800">Early Childhood STEM: Bridging the Screen-Time Gap</h3>
                     <p className="text-gray-500 text-sm mt-1">
@@ -212,17 +212,17 @@ const AttendLaunchPage = () => {
                 </div>
 
                 <div className="flex gap-4 items-start">
-                  <div className="bg-[#FFF4F0] p-2.5 rounded-xl text-[#FF7340] font-bold text-sm shrink-0">16:45</div>
+                  <div className="bg-[#FFF4F0] p-2.5 rounded-xl text-[#FF7340] font-bold text-sm shrink-0">18:45</div>
                   <div>
                     <h3 className="text-lg font-bold text-gray-800">Announcing the Open-Source Teacher Portal</h3>
                     <p className="text-gray-500 text-sm mt-1">
-                      We are making the Teacher Portal open source as a **Digital Public Good**. Learn how schools can adapt it to build their own local curriculums at zero software cost.
+                      We are making the Teacher Portal open source as a <strong>Digital Public Good</strong>. Learn how schools can adapt it to build their own local curriculums at zero software cost.
                     </p>
                   </div>
                 </div>
 
                 <div className="flex gap-4 items-start">
-                  <div className="bg-[#E8FAFC] p-2.5 rounded-xl text-[#46C5D5] font-bold text-sm shrink-0">17:00</div>
+                  <div className="bg-[#E8FAFC] p-2.5 rounded-xl text-[#46C5D5] font-bold text-sm shrink-0">19:00</div>
                   <div>
                     <h3 className="text-lg font-bold text-gray-800">Impact Reports & Cohort Onboarding</h3>
                     <p className="text-gray-500 text-sm mt-1">
@@ -259,7 +259,7 @@ const AttendLaunchPage = () => {
 
               <h2 className="text-2xl font-bold text-gray-900 mb-2">Reserve Your Slot</h2>
               <p className="text-sm text-gray-500 mb-6">
-                Fill in the details below to receive your webinar link and a complimentary CodesRock Info Kit.
+                Fill in the details below to receive your stream link and a complimentary CodesRock Info Kit.
               </p>
 
               {/* Status Notifications */}
@@ -267,7 +267,7 @@ const AttendLaunchPage = () => {
                 <div className="bg-green-50 border-2 border-green-200 rounded-2xl p-4 flex items-center gap-3 mb-6 animate-fade-in">
                   <CheckCircle2 className="w-6 h-6 text-green-600 shrink-0" />
                   <p className="text-green-800 text-sm font-medium">
-                    RSVP Confirmed! We have sent a confirmation email with your invitation details. See you on June 30th!
+                    RSVP Confirmed! We have sent a confirmation email with your invitation details. See you on August 29th!
                   </p>
                 </div>
               )}
