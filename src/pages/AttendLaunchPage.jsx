@@ -123,14 +123,14 @@ const AttendLaunchPage = () => {
       <Navigation />
 
       {/* Hero Section */}
-      <section className="relative z-10 max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 pb-12 md:pt-24 md:pb-16 text-center">
+      <section className="relative z-10 max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-12 md:pt-20 md:pb-16 text-center">
         
-        {/* Transparent Rocky 3D Mascot Pointing */}
-        <div className="flex justify-center mb-4">
+        {/* Official Rocky Mascot (Transparent Cutout) */}
+        <div className="flex justify-center mb-6">
           <img 
             src="/rocky_pointing.png" 
-            alt="Rocky 3D Mascot" 
-            className="w-36 h-36 md:w-48 md:h-48 object-contain filter drop-shadow-2xl hover:scale-105 transition-transform duration-300"
+            alt="Rocky - CodesRock Mascot" 
+            className="w-44 h-44 md:w-60 md:h-60 object-contain drop-shadow-2xl hover:scale-105 transition-transform duration-300 pointer-events-none"
           />
         </div>
 
