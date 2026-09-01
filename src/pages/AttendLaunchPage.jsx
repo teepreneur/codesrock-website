@@ -194,9 +194,9 @@ const AttendLaunchPage = () => {
                 <div className="flex gap-4 items-start">
                   <div className="bg-[#E8FAFC] p-2.5 rounded-xl text-[#46C5D5] font-bold text-sm shrink-0">18:15</div>
                   <div>
-                    <h3 className="text-lg font-bold text-gray-800">Unveiling New Screen-Free Robots & Tools</h3>
+                    <h3 className="text-lg font-bold text-gray-800">Unveiling New Screen-Free Robots & RockBot Prototype</h3>
                     <p className="text-gray-500 text-sm mt-1">
-                      Live premiere of our next-gen tactile robots (RockBot), physical activity kits, and Adinkra-themed coding mats for early learners.
+                      Live premiere of our new screen-free robots lineup powered by our technology partner, tactile activity kits, Adinkra-themed coding mats, and a 3D prototype concept reveal of RockBot.
                     </p>
                   </div>
                 </div>
