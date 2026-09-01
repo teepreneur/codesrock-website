@@ -139,7 +139,7 @@ const AttendLaunchPage = () => {
         </h1>
         
         <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-10 leading-relaxed">
-          Join CodesRock Labs for the live launch of our open-source <strong className="text-gray-900 font-bold">Teacher Portal</strong>—a Digital Public Good bridging the coding and robotics gap for preschools, KG, and early grades.
+          Join CodesRock Labs for the live YouTube Premiere launching our new <strong className="text-gray-900 font-bold">Screen-Free Robots & Tools</strong> alongside our open-source <strong className="text-gray-900 font-bold">Teacher Portal</strong>—a Digital Public Good bridging the coding and robotics gap for preschools, KG, and early grades.
         </p>
 
         {/* Quick Details Grid */}
@@ -148,7 +148,7 @@ const AttendLaunchPage = () => {
             <Calendar className="w-8 h-8 text-[#FF7340] shrink-0" />
             <div className="text-left">
               <p className="text-xs text-gray-400 uppercase tracking-widest font-bold">Date</p>
-              <p className="text-sm font-bold text-gray-800">Saturday, August 29</p>
+              <p className="text-sm font-bold text-gray-800">Friday, September 11</p>
             </div>
           </div>
           <div className="flex items-center gap-4 bg-white/80 backdrop-blur-md rounded-2xl p-5 border border-gray-200/60 shadow-md hover:shadow-lg transition-all">
@@ -162,7 +162,7 @@ const AttendLaunchPage = () => {
             <MapPin className="w-8 h-8 text-[#5D3B98] shrink-0" />
             <div className="text-left">
               <p className="text-xs text-gray-400 uppercase tracking-widest font-bold">Location</p>
-              <p className="text-sm font-bold text-gray-800">YouTube Live</p>
+              <p className="text-sm font-bold text-gray-800">YouTube Premiere</p>
             </div>
           </div>
         </div>
@@ -194,9 +194,9 @@ const AttendLaunchPage = () => {
                 <div className="flex gap-4 items-start">
                   <div className="bg-[#E8FAFC] p-2.5 rounded-xl text-[#46C5D5] font-bold text-sm shrink-0">18:15</div>
                   <div>
-                    <h3 className="text-lg font-bold text-gray-800">The CodesRock Ecosystem Showcase</h3>
+                    <h3 className="text-lg font-bold text-gray-800">Unveiling New Screen-Free Robots & Tools</h3>
                     <p className="text-gray-500 text-sm mt-1">
-                      A live walkthrough of our tactile, screen-free learning tools—including physical robots (RockBot), activity books, and Adinkra-themed coding mats.
+                      Live premiere of our next-gen tactile robots (RockBot), physical activity kits, and Adinkra-themed coding mats for early learners.
                     </p>
                   </div>
                 </div>
@@ -259,7 +259,7 @@ const AttendLaunchPage = () => {
 
               <h2 className="text-2xl font-bold text-gray-900 mb-2">Reserve Your Slot</h2>
               <p className="text-sm text-gray-500 mb-6">
-                Fill in the details below to receive your stream link and a complimentary CodesRock Info Kit.
+                Fill in the details below to receive your Premiere link and a complimentary CodesRock Info Kit.
               </p>
 
               {/* Status Notifications */}
@@ -267,7 +267,7 @@ const AttendLaunchPage = () => {
                 <div className="bg-green-50 border-2 border-green-200 rounded-2xl p-4 flex items-center gap-3 mb-6 animate-fade-in">
                   <CheckCircle2 className="w-6 h-6 text-green-600 shrink-0" />
                   <p className="text-green-800 text-sm font-medium">
-                    RSVP Confirmed! We have sent a confirmation email with your invitation details. See you on August 29th!
+                    RSVP Confirmed! We have sent a confirmation email with your invitation details. See you on September 11th!
                   </p>
                 </div>
               )}
