@@ -15,15 +15,7 @@ const Hero = () => {
   return (
     <header className="relative z-10 pt-16 pb-20 lg:pt-24 lg:pb-32 overflow-hidden">
       <div className="sm:px-6 lg:px-8 text-center max-w-7xl mr-auto ml-auto pr-4 pl-4">
-        {/* Announcement Badge */}
-        <div className="inline-flex items-center gap-2 bg-white border border-gray-100 rounded-full px-5 py-2 shadow-sm mb-10 animate-float">
-          <span className="bg-[#46C5D5]/10 text-[#46C5D5] text-sm font-bold px-3 py-0.5 rounded-full">
-            New
-          </span>
-          <span className="text-sm font-medium text-gray-600">
-            Join 150+ schools targeting 2026
-          </span>
-        </div>
+
 
         <div className="flex flex-col md:flex-row justify-center items-center gap-6 mb-8 mt-4 animate-fade-in-up">
           <img 

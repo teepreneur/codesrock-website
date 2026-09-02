@@ -67,10 +67,6 @@ const KitSection = () => {
         
         {/* Section Header */}
         <div className="text-center mb-16 max-w-3xl mx-auto">
-          <div className="inline-flex items-center gap-2 bg-[#FFF4F0] border border-[#FF7340]/20 text-[#FF7340] px-4 py-1.5 rounded-full text-xs font-bold uppercase tracking-wider mb-4">
-            <Sparkles className="w-4 h-4" />
-            100% Screen-Free STEM Hardware
-          </div>
           <h2 id="kit-heading" className="text-3xl md:text-5xl font-extrabold text-gray-900 mb-6 leading-tight">
             CodesRock Screen-Free <span className="text-[#FF7340]">Mechanics & Robotics Kits</span>
           </h2>
