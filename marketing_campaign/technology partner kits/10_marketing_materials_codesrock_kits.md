@@ -136,12 +136,12 @@ Best,
 
 ---
 
-### Email 3: The September 11 Launch Invite
+### Email 3: The September 18 Launch Invite
 **Subject:** VIP Invitation: Unveiling the Future of Early STEM Education  
 **Body:**  
 Dear [Proprietor Name],  
 
-I wanted to personally invite you to the live **CodesRock Grand YouTube Premiere Launch** on **Friday, September 11, 2026 at 6:00 PM GMT**.  
+I wanted to personally invite you to the live **CodesRock Grand YouTube Premiere Launch** on **Friday, September 18, 2026 at 6:00 PM GMT**.  
 
 We will unveil our complete screen-free robotics hardware lineup, physical activity tools, and open-source Teacher Portal.  
 
@@ -187,4 +187,4 @@ The hardware lineup introduces two flagship products: the **CodesRock Screen-Fre
 
 *"Early childhood is the most critical window for developing spatial and logical intelligence,"* stated the founder of CodesRock Labs. *"Our mission is to ensure every child across Africa can master robotics and coding hands-on—100% screen-free."*
 
-The official live unveiling will take place at the **CodesRock YouTube Premiere Launch on September 11, 2026 at 6:00 PM GMT**. RSVPs are open at **codesrock.com/attendlaunch**.
+The official live unveiling will take place at the **CodesRock YouTube Premiere Launch on September 18, 2026 at 6:00 PM GMT**. RSVPs are open at **codesrock.com/attendlaunch**.

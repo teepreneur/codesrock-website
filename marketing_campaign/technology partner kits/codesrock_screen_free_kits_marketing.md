@@ -48,9 +48,9 @@ While the underlying hardware supports optional digital extension, **CodesRock L
 
 ---
 
-## 📅 September 11 Launch Announcement Integration
+## 📅 September 18 Launch Announcement Integration
 
-At our upcoming **September 11 YouTube Premiere Launch (6:00 PM GMT)**, we will formally unveil:
+At our upcoming **September 18 YouTube Premiere Launch (6:00 PM GMT)**, we will formally unveil:
 1. The **CodesRock Screen-Free Mechanics Kit** (Ages 3–6).
 2. The **CodesRock Screen-Free Robotics Kit** (Ages 6–8+).
 3. The **Open-Source Teacher Portal** (Digital Public Good providing free lesson plans and guides for educators).

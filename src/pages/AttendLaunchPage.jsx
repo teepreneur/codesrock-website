@@ -148,7 +148,7 @@ const AttendLaunchPage = () => {
             <Calendar className="w-8 h-8 text-[#FF7340] shrink-0" />
             <div className="text-left">
               <p className="text-xs text-gray-400 uppercase tracking-widest font-bold">Date</p>
-              <p className="text-sm font-bold text-gray-800">Friday, September 11</p>
+              <p className="text-sm font-bold text-gray-800">Friday, September 18</p>
             </div>
           </div>
           <div className="flex items-center gap-4 bg-white/80 backdrop-blur-md rounded-2xl p-5 border border-gray-200/60 shadow-md hover:shadow-lg transition-all">
@@ -267,7 +267,7 @@ const AttendLaunchPage = () => {
                 <div className="bg-green-50 border-2 border-green-200 rounded-2xl p-4 flex items-center gap-3 mb-6 animate-fade-in">
                   <CheckCircle2 className="w-6 h-6 text-green-600 shrink-0" />
                   <p className="text-green-800 text-sm font-medium">
-                    RSVP Confirmed! We have sent a confirmation email with your invitation details. See you on September 11th!
+                    RSVP Confirmed! We have sent a confirmation email with your invitation details. See you on September 18th!
                   </p>
                 </div>
               )}

@@ -2,7 +2,7 @@
 
 **Primary Image:** [rocky_3d_back_to_school_2026.png](file:///Users/triumphtetteh/Documents/CodeRock_web/codesrock-react/marketing_campaign/rocky_posts/rocky_3d_back_to_school_2026.png)  
 **Campaign Theme:** Back-to-School Encouragement, Screen-Free STEM Readiness, & New Term Launch  
-**Key Call-To-Action:** Equip your child & school with CodesRock tools; RSVP for the September 11 YouTube Premiere at [codesrock.com/attendlaunch](https://codesrock.com/attendlaunch)  
+**Key Call-To-Action:** Equip your child & school with CodesRock tools; RSVP for the September 18 YouTube Premiere at [codesrock.com/attendlaunch](https://codesrock.com/attendlaunch)  
 
 ---
 
@@ -25,7 +25,7 @@ With CodesRock, kids learn core coding logic (loops, conditionals, algorithms) t
 
 Let’s make this school year extraordinary. *Play. Think. Code. Grow.* 🌿💙
 
-👉 **Proprietors & Parents:** Join our grand **YouTube Premiere Launch on Sept 11th** to see our new screen-free tools in action: [codesrock.com/attendlaunch](https://codesrock.com/attendlaunch) (Link in bio!)
+👉 **Proprietors & Parents:** Join our grand **YouTube Premiere Launch on Sept 18th** to see our new screen-free tools in action: [codesrock.com/attendlaunch](https://codesrock.com/attendlaunch) (Link in bio!)
 
 **Hashtags:**  
 #BackToSchool2026 #CodesRock #WelcomeBack #ScreenFreeCoding #LogicSquad #EarlyChildhoodEd #STEMEducation #FutureInnovators #GhanaSchools #PlayThinkCodeGrow
@@ -53,7 +53,7 @@ At **CodesRock Labs**, we solve this through our **screen-free, tactile STEM eco
 3. **Teacher Training:** Empowering existing preschool & KG teachers to teach coding confidently.
 
 We invite school proprietors, proprietors, and parent ambassadors to join our **Grand YouTube Premiere Launch**:
-📅 **Date:** Friday, September 11, 2026  
+📅 **Date:** Friday, September 18, 2026  
 🕒 **Time:** 6:00 PM GMT  
 📍 **Format:** YouTube Premiere  
 👉 **Reserve your school's VIP slot:** [codesrock.com/attendlaunch](https://codesrock.com/attendlaunch)
@@ -73,7 +73,7 @@ HAPPY BACK TO SCHOOL! 🎒📚✨
 
 Rocky has his backpack ready! Wishing all students, parents & teachers an amazing new school year filled with big ideas & zero screen fatigue! 🤖💡📵
 
-Get your school future-ready with screen-free coding! Join our Launch Premiere Sept 11 @ 6PM GMT: [codesrock.com/attendlaunch](https://codesrock.com/attendlaunch)
+Get your school future-ready with screen-free coding! Join our Launch Premiere Sept 18 @ 6PM GMT: [codesrock.com/attendlaunch](https://codesrock.com/attendlaunch)
 
 #BackToSchool #CodesRock #STEM #ScreenFree
 
@@ -89,7 +89,7 @@ Wishing all our wonderful students, parents, and educators a fantastic, inspirin
 As the new term begins, we are excited to help schools and parents give young learners (ages 3–8) the power of **screen-free coding, AI readiness, and robotics**—without buying computers or adding screen time! 🤖📵
 
 🎉 **Mark Your Calendars for our Grand Term Launch:**  
-📅 **Date:** Friday, September 11, 2026  
+📅 **Date:** Friday, September 18, 2026  
 🕒 **Time:** 6:00 PM GMT  
 📍 **Where:** Live YouTube Premiere  
 

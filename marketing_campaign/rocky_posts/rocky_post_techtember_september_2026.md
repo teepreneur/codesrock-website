@@ -2,14 +2,14 @@
 
 **Primary Image:** [rocky_3d_techtember_september_2026.png](file:///Users/triumphtetteh/Documents/CodeRock_web/codesrock-react/marketing_campaign/rocky_posts/rocky_3d_techtember_september_2026.png)  
 **Campaign Theme:** New Month Welcome & "Techtember" STEM Announcement  
-**Key Call-To-Action:** RSVP for the YouTube Premiere Launch on September 11th at [codesrock.com/attendlaunch](https://codesrock.com/attendlaunch)  
+**Key Call-To-Action:** RSVP for the YouTube Premiere Launch on September 18th at [codesrock.com/attendlaunch](https://codesrock.com/attendlaunch)  
 
 ---
 
 ## 💡 What is "Techtember"? (Brand Context)
 In the global tech & innovation community, **"Techtember"** is the celebrated kickoff to September—the official month of new tech releases, back-to-school STEM energy, hardware reveals, and digital breakthroughs. 
 
-For **CodesRock Labs**, September is our biggest month of the year! We are ushering in Techtember by preparing for our massive **September 11 YouTube Premiere**, where we will unveil our new next-gen **screen-free robots**, physical activity tools, and open-source **Teacher Portal**.
+For **CodesRock Labs**, September is our biggest month of the year! We are ushering in Techtember by preparing for our massive **September 18 YouTube Premiere**, where we will unveil our new next-gen **screen-free robots**, physical activity tools, and open-source **Teacher Portal**.
 
 ---
 
@@ -27,7 +27,7 @@ Here at CodesRock Labs, we are taking Techtember to a whole new level:
 🤖 **New Robot & Tool Reveals:** Unveiling our next-gen screen-free robots and Adinkra-themed coding mats.  
 📖 **Open-Source Teacher Portal:** Making early STEM resources freely available as a Digital Public Good.  
 
-Save the date: **Friday, September 11, 2026 at 6:00 PM GMT** for our live **YouTube Premiere Launch**! 📅🎥
+Save the date: **Friday, September 18, 2026 at 6:00 PM GMT** for our live **YouTube Premiere Launch**! 📅🎥
 
 Let’s make this month filled with logic, curiosity, and endless creation. *Play. Think. Code. Grow.* 🌿🧠
 
@@ -56,7 +56,7 @@ As schools resume and academic terms begin, early grade learners (ages 3–8) de
 3. **UNICEF StartUp Lab Insights:** Showcasing proven pilot impact from early childhood classrooms.
 
 Join school leaders, proprietors, and parent ambassadors for our official **YouTube Premiere Launch**:
-📅 **Date:** Friday, September 11, 2026  
+📅 **Date:** Friday, September 18, 2026  
 🕒 **Time:** 6:00 PM GMT  
 📍 **Format:** YouTube Premiere  
 👉 **Reserve your VIP slot:** [codesrock.com/attendlaunch](https://codesrock.com/attendlaunch)
@@ -76,7 +76,7 @@ WELCOME TO TECHTEMBER! 🤘🚀⚡️
 
 September is officially #Techtember—the month of big tech reveals & STEM innovation! 🤖💡
 
-We're kicking off the month with HUGE news: Our next-gen screen-free robots & open-source Teacher Portal launch on **Sept 11 at 6PM GMT** (YouTube Premiere)! 🎥✨
+We're kicking off the month with HUGE news: Our next-gen screen-free robots & open-source Teacher Portal launch on **Sept 18 at 6PM GMT** (YouTube Premiere)! 🎥✨
 
 Reserve your spot: [codesrock.com/attendlaunch](https://codesrock.com/attendlaunch)
 
@@ -94,7 +94,7 @@ Did you know September is known globally as **Techtember**—the season of tech 
 To celebrate, we are inviting all parents, school proprietors, and educators to our major virtual event of the year:
 
 🎉 **CodesRock Grand Launch: Screen-Free Robots & Open-Source Teacher Portal**  
-📅 **Date:** Friday, September 11, 2026  
+📅 **Date:** Friday, September 18, 2026  
 🕒 **Time:** 6:00 PM GMT  
 📍 **Where:** Live YouTube Premiere  
 

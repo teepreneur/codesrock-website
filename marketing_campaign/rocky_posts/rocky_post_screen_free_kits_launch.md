@@ -2,7 +2,7 @@
 
 **Primary Image:** [rocky_3d_mechanics_robotics_kits.png](file:///Users/triumphtetteh/Documents/CodeRock_web/codesrock-react/marketing_campaign/rocky_posts/rocky_3d_mechanics_robotics_kits.png)  
 **Campaign Theme:** Product Reveal — CodesRock Screen-Free Mechanics & Robotics Kits  
-**Key Call-To-Action:** RSVP for the YouTube Premiere Launch on September 11th at [codesrock.com/attendlaunch](https://codesrock.com/attendlaunch)  
+**Key Call-To-Action:** RSVP for the YouTube Premiere Launch on September 18th at [codesrock.com/attendlaunch](https://codesrock.com/attendlaunch)  
 
 ---
 
@@ -25,7 +25,7 @@ Construct advanced machines with snap rivets, multi-sensor modules (color, sound
 No computer labs. No tablet screens. No blue light fatigue. Just pure hands-on creativity and real-world problem solving! 🧠🌿
 
 Join us for the official live **YouTube Premiere Launch**:  
-📅 **Date:** Friday, September 11, 2026  
+📅 **Date:** Friday, September 18, 2026  
 🕒 **Time:** 6:00 PM GMT  
 📍 **Location:** Live YouTube Premiere  
 
@@ -60,7 +60,7 @@ At **CodesRock Labs**, we are launching two new hardware product lines designed 
 ✅ **100% Screen-Free Guarantee for Ages 3–8**  
 
 Join education leaders across Africa for our official **YouTube Premiere Launch**:  
-📅 **Date:** Friday, September 11, 2026  
+📅 **Date:** Friday, September 18, 2026  
 🕒 **Time:** 6:00 PM GMT  
 📍 **Where:** YouTube Premiere  
 👉 **Reserve your school's VIP access:** [codesrock.com/attendlaunch](https://codesrock.com/attendlaunch)
@@ -80,7 +80,7 @@ Build & code robots with 0% screens! 📵💡
 
 Introducing the **CodesRock Screen-Free Mechanics & Robotics Kits**—featuring tactile NFC coding boards & optical smart coding pens!
 
-Watch the live premiere Sept 11 @ 6PM GMT! 🎥
+Watch the live premiere Sept 18 @ 6PM GMT! 🎥
 RSVP: [codesrock.com/attendlaunch](https://codesrock.com/attendlaunch)
 
 #CodesRock #ScreenFree #Robotics #STEM
@@ -97,7 +97,7 @@ We are thrilled to reveal our official **CodesRock Screen-Free Mechanics & Robot
 Say goodbye to computer labs and screen fatigue! Our new kits allow children to build real moving robots with nuts, bolts, and rivets, and program them **100% screen-free** using physical coding boards and smart coding pens! 📵💡
 
 🎉 **See them live at our Grand YouTube Premiere Launch:**  
-📅 **Date:** Friday, September 11, 2026  
+📅 **Date:** Friday, September 18, 2026  
 🕒 **Time:** 6:00 PM GMT  
 📍 **Where:** YouTube Premiere  
 
