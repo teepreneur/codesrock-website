@@ -1,0 +1,313 @@
+=== Text from Day3_RevenueModels.pptx ===
+
+--- Slide 1 ---
+UNICEF STARTUP LAB GHANA Day 3 of 4 Revenue Models Extracting Value, Unit Economics & Revenue Forecasting Session: 9:00 AM - 4:00 PM MEST Africa  |  UNICEF Ghana  |  KOICA
+[Notes for Slide 1]:
+PRESENTER NOTES — DAY 3 TITLE SLIDE
+TIMING: 5 minutes | 9:00–9:05 AM
+
+WELCOME SCRIPT:
+"Good morning — welcome to Day 3. We have covered your Business Model Canvas on Day 1 and your Business Model Type on Day 2. Today we answer the most critical question an investor will ask: how exactly does your startup make money — and keep making it? That is your Revenue Model."
+
+ENERGY CHECK:
+Ask: "Stand up if you completed last night's homework." Then: "Stay standing if you can now describe your startup's revenue model in ONE sentence." Usually 20–30% remain standing — this creates urgency for the day.
+
+GHANA CONTEXT:
+Highlight that Ghana has seen genuine revenue model innovation: MoMo transaction fees, USSD subscription models, agent-based blended models. Many successful Ghanaian startups are not the biggest — they are the ones who figured out the right revenue model early and executed it consistently.
+
+FACILITATOR TIP:
+Leave the day's outputs on the whiteboard: "By 4 PM you will have a Revenue Model Summary and a 12-month revenue forecast ready to go into your investor pitch deck."
+
+
+--- Slide 2 ---
+Day 3 Schedule — 9:00 AM to 4:00 PM DAY 3  |  MODULE 3 9:00 AM Welcome, Day 2 Recap & Day 3 Objectives 20 min 9:20 AM Revenue Model vs Business Model — Foundations 40 min 10:00 AM The 6 Core Revenue Models — Deep Dives 45 min 10:45 AM MORNING BREAK 15 min 11:00 AM Subscription, Transaction, Freemium & Advertising 45 min 11:45 AM Licensing, Blended & Hybrid Models 30 min 12:15 PM LUNCH BREAK 60 min 1:15 PM Unit Economics: CAC, LTV & Payback Period 45 min 2:00 PM Revenue Forecasting — Bottom-Up Method 30 min 2:30 PM Case Study: Zeepay & M-Pesa Africa 30 min 3:00 PM AFTERNOON BREAK 15 min 3:15 PM Exercise: Design Revenue Model + 12-Month Forecast 35 min 3:50 PM Key Takeaways, Homework & Close 10 min
+[Notes for Slide 2]:
+PRESENTER NOTES — DAY 3 SCHEDULE
+TIMING: 3 minutes
+
+Walk participants through the full day. Highlight the afternoon exercise block (3:00–4:00 PM) as the most hands-on and important part of the day. Confirm lunch and break arrangements. Ask if there are any questions before starting.
+
+--- Slide 3 ---
+Day 2 Recap — What We Covered DAY 3  |  MODULE 3 Quick recap before we begin. What do you remember from Day 2 — Business Model Types? Business model TYPE describes HOW your business makes money — B2C, B2B, B2G, Platform, SaaS, or Hybrid B2B and B2G typically have higher revenue per transaction but longer sales cycles than B2C Platform/Marketplace models require solving the 'chicken-and-egg' problem — you need both sides to launch Use the 5-factor framework (customer type, scale, cash flow, competition, regulation) to choose your model
+[Notes for Slide 3]:
+PRESENTER NOTES — DAY 3 RECAP
+TIMING: 10 minutes
+
+Do NOT just read the points — ask participants to say them. Ask: "Who can tell me what we covered yesterday?" Use this as an energiser to kick off Day 3. Revisit any homework from Day 2 — ask 2-3 participants to share what they discovered. Address any lingering questions before moving forward.
+
+--- Slide 4 ---
+Today's Learning Objectives DAY 3  |  MODULE 3 By the end of today, you will be able to: 1 Explain the difference between a revenue model and a business model — and why both matter 2 Identify, compare and evaluate all 6 core revenue model types with real Ghanaian and African examples 3 Calculate key unit economics: Customer Acquisition Cost (CAC), Lifetime Value (LTV), and payback period 4 Build a credible 12-month bottom-up revenue forecast using your own startup's assumptions
+[Notes for Slide 4]:
+PRESENTER NOTES — LEARNING OBJECTIVES
+TIMING: 5 minutes
+
+Read each objective aloud. Ask: "Which of these is most relevant to where your startup is right now?" Take 2 show-of-hands. Return to these at the end of the day — self-assess whether each was met. Facilitator tip: write these on a whiteboard/flip-chart so they stay visible all day.
+
+--- Slide 5 ---
+01 DAY 3  |  MODULE 3 Revenue Model vs Business Model Two concepts. One startup. You need both — and they are not the same thing.
+[Notes for Slide 5]:
+Section intro — tell participants what is coming in this block, why it matters, and roughly how long it will take.
+
+--- Slide 6 ---
+Revenue Model vs Business Model DAY 3  |  MODULE 3 BUSINESS MODEL How you CREATE, DELIVER and CAPTURE value overall Includes: target customers, value proposition, channels, key resources, cost structure — and revenue streams Answers: "How does your entire startup work?" Example: Farmerline connects farmers to agri-inputs + market data via mobile, with an agent distribution network, funded by B2B SaaS + donor grants REVENUE MODEL How specifically you EARN MONEY from your customers — the pricing mechanism A subset of the business model focused on the money flow: who pays, how much, how often Answers: "How does money actually move to your company?" Example: Farmerline charges NGOs a GHS 2,500/month SaaS fee AND takes a 3% commission on farmer input purchases through the platform Key insight: same product, different revenue model = completely different businesses with different economics, growth paths and investor attractiveness.
+[Notes for Slide 6]:
+PRESENTER NOTES — REVENUE VS BUSINESS MODEL
+TIMING: 20 minutes | 9:20–9:40 AM
+
+KEY TALKING POINTS:
+1. Business model is the FULL picture; revenue model is ONE component — the pricing mechanism
+2. You can have the same business model with DIFFERENT revenue models. Illustration:
+   Two food delivery startups (same model) — one charges restaurants 15% commission, one charges consumers a monthly subscription. Very different unit economics and cash flow.
+3. The revenue model choice drives: cash flow timing, customer behaviour, investor attractiveness, and regulatory obligations
+
+GHANA CONTEXT:
+In Ghana, B2C subscription models historically struggled due to low card penetration and irregular income cycles. MTN MoMo Auto-Debit has changed this — startups can now set up recurring mobile money payments, enabling subscription models at scale.
+
+DISCUSSION QUESTION (3 min):
+"Can you describe YOUR startup's revenue model in one sentence right now?" Take 2-3 volunteers. Most will describe their product, not their revenue mechanism — use this to reinforce the distinction.
+
+FACILITATOR TIP:
+Use a whiteboard: draw the BMC, circle "Revenue Streams" — show that this ONE block contains the entire revenue model logic. Everything else on the canvas is infrastructure to support it.
+
+--- Slide 7 ---
+Five Reasons Your Revenue Model Determines Survival DAY 3  |  MODULE 3 The same product with different revenue models = completely different businesses. Cash Flow Timing: Transaction models give you cash today. Subscription requires upfront investment but gives you predictable monthly recurring revenue. Customer Behaviour: Freemium requires 50x more users to convert 1 paying customer. Are your unit economics viable at the scale you can reach? Investor Attractiveness: Recurring SaaS revenue commands 5-10x higher valuation multiples than one-time transaction revenue. Investors pay a premium for predictability. Regulation & Compliance: FinTech revenue models (lending, payments) require Bank of Ghana licensing. Health models may need FDA oversight. Know this before you launch. Scalability Ceiling: A pure consulting model cannot scale without proportional headcount. A SaaS model can serve 10x customers with the same team.
+[Notes for Slide 7]:
+PRESENTER NOTES — WHY REVENUE MODEL MATTERS
+TIMING: 20 minutes | 9:40–10:00 AM
+
+KEY TALKING POINTS:
+1. Reason 3 (investor attractiveness) is CRITICAL for this programme — participants will pitch to UNICEF/MEST investors. MRR/ARR commands premium valuations. A startup with GHS 10k/month subscription ARR is worth far more to investors than one with GHS 10k/month one-off consulting revenue.
+2. Reason 4: flag that Bank of Ghana (BoG) has specific fintech licensing requirements — any revenue model involving payment processing, lending, or savings requires prior regulatory consultation. Several cohort startups have been caught by this.
+3. Use the "same product, different model" illustration: a telemedicine platform could be:
+   (a) Pay-per-consultation (transaction) — GHS 30/session
+   (b) GHS 50/month per patient (subscription)
+   (c) Free to patients, paid by corporate employers (B2B2C)
+   → Very different CAC, LTV, and scaling paths
+
+FACILITATOR TIP:
+Run a 5-minute sticky-note activity: each team writes their startup name and CURRENT revenue model assumption on a note. Collect and read 3-4 aloud anonymously. This surfaces common misconceptions and creates urgency for the rest of the session.
+
+--- Slide 8 ---
+02 DAY 3  |  MODULE 3 The 6 Core Revenue Models Deep dives with Ghanaian and African context — pick your primary model, then layer
+[Notes for Slide 8]:
+Section intro — tell participants what is coming in this block, why it matters, and roughly how long it will take.
+
+--- Slide 9 ---
+The 6 Core Revenue Models — Know Them All DAY 3  |  MODULE 3 Most successful African startups use BLENDED models. Start by understanding each one individually. 01 Subscription Recurring monthly or annual fee for ongoing access. Predictable MRR. Example: Hubtel merchant plan. 02 Transaction Fee per transaction or event. Pay-as-you-go. Example: MTN MoMo fees; Jumia seller commission. 03 Freemium Free core product, paid premium tier. Requires high free user volume. Conversion avg: 2-5%. 04 Advertising Revenue from advertisers based on audience size. Requires 100k+ MAU for meaningful revenue. Example: Pulse.gh. 05 Licensing Charge others to use your IP, technology or brand. Example: white-label AI diagnostic tool to hospitals. 06 Blended/Hybrid Combine 2+ models. Most mature startups. Example: SaaS fee + transaction commission + services.
+[Notes for Slide 9]:
+PRESENTER NOTES — 6 CORE REVENUE MODELS OVERVIEW
+TIMING: 15 minutes | 10:00–10:15 AM
+
+KEY TALKING POINTS:
+1. This is a landscape map — participants will return to it when choosing their model in the exercise
+2. Ask: "Raise your hand if your startup fits each model as I go through them" — this is diagnostic for the room
+3. Advertising model warning: needs massive scale before it generates meaningful revenue — 99% of startups should NOT use advertising as their primary model
+4. Highlight that Model 06 (Blended) is where most successful Ghanaian startups end up — but start with ONE model, prove it, then layer
+
+GHANA CONTEXT:
+- Subscription: growing fast due to MoMo Auto-Debit — MTN and Vodafone now enable recurring mobile money deductions
+- Transaction: dominant in Ghana's informal economy — people prefer pay-as-you-go over upfront commitments
+- Freemium: works in B2C digital products; B2B freemium is less common due to procurement processes
+- Licensing: underused by Ghanaian startups — significant opportunity for tech companies to license IP regionally
+
+DISCUSSION QUESTION:
+"If your startup's primary model is currently 'we'll figure it out later' — today we fix that. Which of these 6 most closely fits your startup right now?"
+
+FACILITATION TIP:
+Have each participant circle their primary model on a printed handout. Collect after the session to identify which models are most common in the cohort.
+
+--- Slide 10 ---
+Subscription vs Transaction — Core Trade-offs DAY 3  |  MODULE 3 SUBSCRIPTION MODEL Best for: SaaS / digital tools, ongoing value delivery, professional retainers Key metrics: MRR, ARR, Churn Rate, Lifetime Value Ghana advantage: MoMo Auto-Debit now enables recurring payments on feature phones Challenge: irregular cash flow of target users (farmers, SMEs) affects commitment Ghana example: Hubtel Merchant (GHS 50/month) | Business Ghana News premium TRANSACTION MODEL Best for: Marketplaces, mobile money services, e-commerce, infrequent high-value purchases Key metrics: GMV, Take Rate, Average Transaction Value, Transaction Frequency Ghana advantage: dominant model — informal economy comfort with pay-as-you-go Challenge: take rate compression — competition drives commission rates toward zero over time Ghana example: Jumia (8-20% commission) | Zeepay diaspora transfer fee + FX spread The fundamental question: does your customer have regular predictable cash to commit (subscription) or do they transact infrequently with variable cash (transaction)?
+[Notes for Slide 10]:
+PRESENTER NOTES — SUBSCRIPTION VS TRANSACTION
+TIMING: 25 minutes | 11:00–11:25 AM
+
+KEY TALKING POINTS:
+1. The key trade-off: subscription = predictable revenue but harder to acquire; transaction = easy to start but lumpy cash flow
+2. For social impact startups: subscription models align better with SDG-reporting requirements (measurable ongoing engagement vs one-off transactions)
+3. Subscription "lock-in" is NOT a dirty word — when the product delivers real value, switching costs benefit both parties
+4. Transaction model warning: take rate compression is real. As competition increases, platforms are forced to lower commission rates (see: ride-hailing across Africa, dropping from 20% to 8%)
+
+GHANA CONTEXT:
+MoMo Auto-Debit (available via Hubtel API): startups can now set up recurring mobile money payments. This has been a game changer for B2C subscription models in Ghana. Before this API existed, subscription models effectively required a bank card.
+
+DISCUSSION QUESTIONS:
+1. "For your startup — would customers prefer to pay monthly or per-use? Why? Have you actually asked them?"
+2. "What churn rate would make your subscription model financially unviable? Have you calculated this?"
+
+FACILITATION TIP:
+Draw a quick comparison table on whiteboard: Subscription vs Transaction across 5 dimensions (cash flow, growth velocity, acquisition difficulty, retention, investor appeal). Ask participants to vote on which dimension matters most for their startup.
+
+--- Slide 11 ---
+Freemium — The Conversion Math You Must Know DAY 3  |  MODULE 3 Industry average free-to-paid conversion: 2-5%. To get 100 paying customers, you need 2,000-5,000 active free users. FREEMIUM WORKS WHEN: The free tier genuinely delivers value — not a crippled demo that frustrates users The paid tier has clear, compelling upgrade triggers that create obvious value Customer acquisition cost is LOW — freemium relies on viral/referral growth mechanisms The product has network effects — each user makes it more valuable for everyone FREEMIUM FAILS WHEN: Free users become expensive to serve without converting to paid tier The upgrade reason is weak — 'more features' is rarely compelling enough alone Target market is too small to build a large enough free user base for conversion math The product is a commodity — competitors copy your free tier, removing differentiation Ghana example — mPharma's pharmacy network: Free inventory management tools for pharmacists (genuinely valuable). Paid: premium analytics + procurement financing (compelling upgrade reason = access to capital). This converted the free tier into a B2B financial services revenue stream.
+[Notes for Slide 11]:
+PRESENTER NOTES — FREEMIUM
+TIMING: 20 minutes | 11:25–11:45 AM
+
+KEY TALKING POINTS:
+1. Most participants OVERESTIMATE their free-to-paid conversion rate — challenge them: "Would YOU upgrade to paid if you were your own customer? What would you need to see?"
+2. The dangerous freemium trap: giving too much away for free means users have no reason to pay. The free tier must be valuable but deliberately incomplete.
+3. Freemium requires SCALE before it generates meaningful revenue — usually not viable in early-stage unless you have strong built-in virality
+4. mPharma's Trojan horse: they gave free inventory management to capture market share, then used that footprint to offer procurement financing (their real high-margin product)
+
+GHANA CONTEXT:
+Freemium works well when the free tier captures MARKET SHARE in a fragmented sector first. Example opportunity: professional tools (legal tech, accounting, HR platforms) where free tier educates users and paid tier operationalises their work.
+
+DISCUSSION QUESTION:
+"If you were building a freemium product for smallholder farmers in Ghana, what would the free tier include — and what specific trigger would convert them to pay?"
+
+FACILITATION TIP:
+Have any participants considering freemium stand up and defend WHY their conversion rate would be above 5%. This surfaces key assumptions that need testing before they commit to the freemium model.
+
+--- Slide 12 ---
+Advertising, Licensing & Blended / Hybrid Models DAY 3  |  MODULE 3 ADVERTISING MODEL Revenue from advertisers based on your audience size and engagement quality Reality check: need 100,000+ monthly active users before advertising generates meaningful revenue Ghana example: Pulse.com.gh, JoyNews Online — high-traffic media properties monetising via display advertising Warning: advertising models commoditise your audience — platform algorithms, not you, often determine your revenue Best use: a secondary revenue stream once you have proven product-market fit via another primary model LICENSING MODEL Charge others to use your intellectual property, platform technology, or brand High-margin: once IP is built, incremental licensing cost approaches zero Ghana example: a fintech licensing its KYC/AML compliance technology to other startups as a white-label API Opportunity: regional licensing — build something that works in Ghana, license to Nigeria, Kenya, Senegal Regulatory note: some licensed IP (financial, health, educational) requires additional regulatory approval to sublicense BLENDED / HYBRID MODEL Combine 2 or more revenue models. The norm for mature startups. Do NOT launch with a blended model — start with ONE, prove it, then layer additional streams Classic Ghana blend: SaaS subscription fee (floor revenue) + transaction commission (upside) + professional services Zeepay example: flat transfer fee + FX spread on every diaspora remittance = simple, powerful blend Development partner blend: grant/donor funding (early) + commercial revenue (growth) + licensing (scale)
+[Notes for Slide 12]:
+PRESENTER NOTES — ADVERTISING, LICENSING & BLENDED
+TIMING: 30 minutes | 11:45 AM–12:15 PM
+
+KEY TALKING POINTS:
+1. Advertising warning: the audience size required for meaningful ad revenue is almost always beyond early-stage reach. It is a terrible PRIMARY model for most startups.
+2. Licensing is dramatically underused by Ghanaian startups — especially those with proprietary data or compliance infrastructure that other companies need
+3. CRITICAL on blended models: the most common mistake is trying to launch with 3 revenue models simultaneously, none of which are proven. Start with 1. Prove it. Then layer.
+4. Data monetisation (selling user insights to third parties) is a potential 7th model — but immediately flag Ghana Data Protection Act 2012 (Act 843) and GDPR if operating in the EU. You CANNOT sell personal data without explicit consent.
+
+GHANA CONTEXT:
+Development partner blend is a unique opportunity for UNICEF Startup Lab participants: early-stage grant funding + commercial revenue + potential licensing = a robust blended model that reduces dependency on any single source.
+
+FACILITATION TIP:
+Ask: "For your startup, what would be your PRIMARY model and what would be your SECONDARY model once you reach scale?" This is the question they need to answer in today's exercise.
+
+--- Slide 13 ---
+03 DAY 3  |  MODULE 3 Unit Economics CAC, LTV, Payback Period — three numbers every investor will ask on day one
+[Notes for Slide 13]:
+Section intro — tell participants what is coming in this block, why it matters, and roughly how long it will take.
+
+--- Slide 14 ---
+CAC and LTV — Customer Unit Economics DAY 3  |  MODULE 3 CUSTOMER ACQUISITION COST (CAC) FORMULA: Total Sales & Marketing Spend ÷ New Customers Acquired in same period Include ALL costs: ads, salesperson time, events, referral fees, free trials, agent commissions Common mistake: forgetting founder time in sales — if you spend 50% of your time on sales, your salary is part of CAC Target: B2C digital = CAC < GHS 50; B2B SaaS = CAC < 3 months of contract value Ghana example: GHS 10,000/month marketing spend → 200 new paying users = CAC of GHS 50 LIFETIME VALUE (LTV) FORMULA: ARPU x Average Customer Lifespan — OR for subscription: ARPU ÷ Monthly Churn Rate The Golden Rule: LTV must be at least 3x CAC for a fundable unit economics model LTV:CAC ratios: < 1x = losing money, 1-3x = marginal, 3x+ = healthy, 5x+ = excellent Common mistake: using average subscription LENGTH instead of calculating from actual churn rate Ghana example: GHS 20/month ARPU, 2% monthly churn → LTV = 20/0.02 = GHS 1,000 → LTV:CAC = 20x Payback period = CAC ÷ Monthly Gross Profit per Customer. Target: under 12 months for most B2C startups.
+[Notes for Slide 14]:
+PRESENTER NOTES — CAC AND LTV
+TIMING: 30 minutes | 1:15–1:45 PM
+
+KEY TALKING POINTS:
+1. These three numbers (CAC, LTV, Payback Period) are the most common investor interview questions for early-stage startups. Participants MUST be able to calculate and state their numbers confidently.
+2. Walk through the Ghana example LIVE on whiteboard — make participants compute Month 2 and Month 3 from the example numbers
+3. Mobile money transaction fees reduce effective ARPU — if your MoMo payment gateway charges 2%, subtract this from your ARPU calculation
+
+FACILITATOR EXERCISE (10 min):
+Ask participants to SILENTLY estimate their CAC and LTV for 3 minutes, then share with a table partner for 2 minutes. Then ask 2-3 to share with the room.
+Most will have:
+(a) No idea — needs immediate coaching
+(b) Numbers that are wildly optimistic — needs calibration
+(c) Rough estimates with clear assumptions — encourage them, refine together
+
+GHANA CONTEXT:
+High churn is a major challenge in Ghana's B2C digital market — many users are "price shoppers." If monthly churn is > 10%, an LTV:CAC ratio > 3x becomes very hard to achieve, which means the business is structurally difficult. This is not a death sentence — it is a signal to invest in retention before acquisition.
+
+DISCUSSION QUESTION:
+"If your LTV:CAC ratio is below 1x right now — what are your three levers to fix it? (Hint: you can reduce CAC, increase ARPU, or reduce churn — choose one to focus on first.)"
+
+FACILITATION TIP:
+This is a high-stakes moment — some participants may realise their current business is not financially viable. Frame this constructively: "Knowing your numbers is the first step to fixing them. Ignorance of your unit economics is what kills startups."
+
+--- Slide 15 ---
+Revenue Forecasting:The Bottom-Up Method DAY 3  |  MODULE 3 Investors distrust top-down forecasts ("Ghana has 5M SMEs, we capture 1%"). Bottom-up forecasts from real sales capacity are credible. Step 1 Define your PAYING customer segment. Not 'all Ghanaians' — be specific: urban SME owners in Accra with smartphones and a monthly cash flow > GHS 2,000. Step 2 Estimate monthly ACQUISITION RATE based on your marketing plan. How many new paying customers can your current team actually convert per month? Step 3 Apply ARPU — your average monthly revenue per PAYING customer. Subtract transaction fees and refunds. Be conservative. Step 4 Apply CHURN — subtract customers lost each month. If you do not know your churn rate, assume 8-10% monthly for planning. Step 5 Build month-by-month: Starting customers + New customers acquired - Churned customers = Total x ARPU = Monthly Revenue.
+[Notes for Slide 15]:
+PRESENTER NOTES — REVENUE FORECASTING
+TIMING: 15 minutes | 1:45–2:00 PM
+
+KEY TALKING POINTS:
+1. Walk through a live example: 50 customers in Month 1, acquire 30/month, 5% monthly churn, GHS 80 ARPU
+   Month 1: 50 x 80 = GHS 4,000
+   Month 6: ~200 customers x 80 = GHS 16,000
+   Month 12: ~390 customers x 80 = GHS 31,200
+   PAUSE: have participants calculate Month 3 with a partner (3 minutes)
+2. The forecast is only as good as its assumptions — transparency about assumptions is a sign of founder maturity to investors
+3. Being honest about a conservative forecast is more impressive than an unrealistic optimistic one
+
+GHANA SEASONAL FACTORS:
+- January-February: post-Christmas cash crunch — many SME customers spend conservatively
+- August: school fees pressure — household discretionary spending drops
+- October-December: harvest season for cocoa and maize — agricultural customers flush with cash
+- Q4: mobile money system maintenance windows can affect transaction-based revenue
+
+FACILITATION TIP:
+If time allows, walk through the calculation LIVE on whiteboard. Ask: "What is your biggest uncertainty in this forecast?" The answer reveals the key assumptions that need immediate testing.
+
+--- Slide 16 ---
+GHANA CASE STUDY Zeepay FinTech  |  Accra, Ghana  |  Founded 2014  |  Revenue: Transaction Fee + FX Spread Problem: 700,000+ Ghanaian diaspora (UK, US, Canada) sending money home faced 5-8% bank fees and 3-5 day delays. No solution focused on mobile wallet delivery in Ghana. Revenue Model: Blended: flat transaction fee (USD 2.99-4.99) + FX spread (0.5-1.5% margin over interbank rate). Both streams kick in on every single transfer. Competitive Edge: Delivery speed to MoMo wallet in under 60 seconds. Regulatory moat: first Ghanaian fintech with UK FCA + US MSB licences — took 18 months, impossible to fast-follow. Scale: Grew to process $1B+ annualised remittance volume across 50+ corridors. Series A from Mastercard. Ghana's Bank of Governor cited as model for inclusive fintech. Key Lesson: The pricing innovation was not the fee — it was delivery speed to mobile wallet. Revenue followed differentiation, not the other way around. DAY 3  |  MODULE 3
+[Notes for Slide 16]:
+PRESENTER NOTES — ZEEPAY CASE STUDY
+TIMING: 30 minutes | 2:00–2:30 PM
+
+TELL THE STORY:
+Zeepay founder Andrew Takyi-Appiah identified a gap that banks and traditional remittance players overlooked: Ghana's 40%+ unbanked population could not receive bank wire transfers. But they all had MTN MoMo wallets. Zeepay built a "last mile" delivery system — connecting global payment rails to local mobile wallets.
+
+KEY TEACHING POINTS:
+1. The blended revenue model worked because: transaction fee covered basic operating costs; FX spread was the upside lever that scaled with volume
+2. Regulatory moat: UK FCA approval took 18 months and significant capital. This created a real barrier that raised the cost of entry for any copycat — and signalled to enterprise clients that Zeepay was serious
+3. Ghana diaspora remittance context: remittances are Ghana's second largest foreign exchange source (est. $4.5B in 2022). Even 1% market share = $45M/year in gross payments value
+
+DISCUSSION QUESTIONS:
+1. "Why couldn't a Ghanaian bank copy Zeepay's model immediately? What were Zeepay's real competitive moats beyond the technology?"
+2. "How would you model Zeepay's LTV for a regular diaspora sender who remits $200/month? (Hint: calculate annual fees + FX spread x years retained)"
+
+FACILITATOR TIP:
+Use Zeepay as a pricing model example: the flat fee vs percentage model is a real pricing strategy decision. Flat fees are easier for customers to predict; percentage models scale better with large transfers.
+
+--- Slide 17 ---
+EXERCISE Design Your Revenue Model + 12-Month Forecast A [10 min] Select your PRIMARY revenue model. Write your justification: why does this model fit your customer segment, your product, and Ghana's market context? B [5 min] Define your pricing: What is your price point? How did you arrive at this number? Have you tested it with 3 real potential customers? If not — what do you need to test? C [10 min] Calculate your unit economics: Estimate your CAC, ARPU, monthly churn rate, and LTV. Compute your LTV:CAC ratio. Flag it if it is below 3x. D [10 min] Build your 12-month bottom-up revenue forecast using the 5-step framework. Start from Month 1. Write your key assumptions explicitly. E [5 min] Identify your #1 revenue risk: what single assumption, if wrong, would break your model? Write one mitigation strategy for that risk. Deliverable: A 1-page Revenue Model Summary — model type, pricing logic, unit economics table, 12-month revenue chart — ready for your investor pitch deck DAY 3  |  MODULE 3
+[Notes for Slide 17]:
+PRESENTER NOTES — DAY 3 EXERCISE
+TIMING: 35 minutes | 3:15–3:50 PM
+
+FACILITATION STRUCTURE:
+- 0-3 min: Read the brief aloud, clarify questions, confirm working format (individual or same teams as Day 2)
+- 3-30 min: Working time — walk the room CONSTANTLY, intervene early when you see errors
+- 30-35 min: Ask 3 teams to share their revenue model choice + LTV:CAC ratio (60 seconds each). Peers give 1 question each.
+
+KEY COACHING INTERVENTIONS BY TASK:
+- Task 1 (model selection): Most will default to "transaction fee" because it is familiar. Push: "Is there a subscription version of this? What would need to be true for subscribers to commit?"
+- Task 3 (unit economics): Many will struggle with churn estimation. Help: "Of 10 customers you acquire today, how many do you genuinely believe will still be paying in 12 months? Start there."
+- Task 4 (forecast): Watch for hockey-stick assumptions — if they project 0 customers now but 500 in Month 6, ask "HOW?" Make them explain the specific marketing actions that produce each new customer.
+- Task 5 (risk): Most will write generic risks. Push for specificity: "My #1 risk is that MoMo Auto-Debit adoption is slower than assumed, which reduces my subscription conversion rate from 8% to 3%."
+
+COMMON MISTAKES TO COACH:
+- Setting prices too low from fear: "I'll charge GHS 5/month" — challenge: "At GHS 5/month you need 5,000 customers to reach GHS 25k MRR. Is that achievable in 12 months? Could you charge GHS 50/month to 500 customers instead?"
+- Forgetting MNO transaction fees (2-2.5% of every MoMo payment) — these are real COGS that erode ARPU
+
+FACILITATION TIP:
+If teams are stuck on the forecast, try the reverse approach: "What monthly revenue do you need to be sustainable by Month 12? Work backwards from that target to figure out how many customers you need and at what ARPU."
+
+
+--- Slide 18 ---
+Day 3 Key Takeaways DAY 3  |  MODULE 3 1 Revenue vs Business Model Revenue model is HOW money flows to you — a subset of the business model. Both must be coherent and connected. 2 6 Core Models Subscription, Transaction, Freemium, Advertising, Licensing, Blended — each has different unit economics, scaling paths and suitability for Ghana's market. 3 Freemium Math Industry average free-to-paid conversion: 2-5%. Freemium requires mass acquisition at low/zero CAC. Most early-stage Ghanaian startups do not yet have the scale or virality to make freemium profitable. 4 LTV:CAC Rule Lifetime Value must be at least 3x Customer Acquisition Cost. Below 1x means you lose money on every customer acquired. Know your numbers — they are not optional. 5 Bottom-Up Forecasting Build revenue forecasts from your actual sales capacity and churn data — not from market share assumptions. Investors fund founders who understand their own numbers.
+[Notes for Slide 18]:
+PRESENTER NOTES — KEY TAKEAWAYS
+TIMING: 5 minutes | 3:50–3:55 PM
+
+DEBRIEF METHOD:
+For each takeaway, ask: "Can someone give me an example of this from their own startup exercise today?" Do not just read — make it participatory.
+
+SELF-ASSESSMENT:
+Ask participants to rate their confidence on each takeaway 1-3 (1=still unclear, 3=can explain to others). For any 1s, address in homework or tomorrow's 1:1 mentor sessions.
+
+CLOSING QUESTIONS:
+- "What was the most uncomfortable insight from today — the number or assumption that challenged you most?"
+- "What ONE thing will you change about your revenue model assumptions based on today?"
+
+FACILITATOR TIP:
+Quick "lightning round": ask each participant to state their revenue model in ONE sentence before they leave. Compare to the morning — most will now be able to do it clearly. This demonstrates real learning progress.
+
+--- Slide 19 ---
+Day 3 Homework — Prepare for Tomorrow DAY 3  |  MODULE 3 Complete before the next session to get maximum value from Day 4: Task 1: Finalise Revenue Model Summary Clean up today's exercise output as if it is going directly into your investor pitch deck. One clear page: model type, pricing, unit economics table, and 12-month chart. Task 2: Research a Competitor's Revenue Find one competitor: how do they charge? What is their approximate ARPU? Search their website pricing page, app store description, and any press coverage. Bring findings to Day 4. Task 3: Complete Unit Economics Template Fill in the Unit Economics Template provided today with your own startup's best-estimate numbers. Bring it to tomorrow's session — your mentor will review it with you.
+[Notes for Slide 19]:
+PRESENTER NOTES — DAY 3 HOMEWORK
+TIMING: 5 minutes | 3:55–4:00 PM
+
+KEY MESSAGES:
+- Task 1 (Revenue Model Summary) feeds directly into the investor pitch deck used in Module 4
+- Task 2 (competitor revenue research) prepares participants for tomorrow's competition analysis — they'll need competitor data
+- Task 3 (Unit Economics Template) is critical — mentors will do 1:1 reviews during tomorrow's lunch break
+
+FACILITATOR TIP:
+Send a WhatsApp group message this evening with: (1) Unit Economics Template download link, (2) a reminder of the 3 homework tasks, (3) a motivating word. Mention that participants who complete all 3 tasks consistently finish the programme with stronger investor pitch decks.
