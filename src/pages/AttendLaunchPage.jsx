@@ -57,7 +57,7 @@ const AttendLaunchPage = () => {
     try {
       // 1. Attempt to store in Supabase
       if (supabase) {
-        const { error } = await supabase
+        let { error } = await supabase
           .from('launch_attendees')
           .insert([
             {
@@ -69,7 +69,23 @@ const AttendLaunchPage = () => {
             },
           ]);
 
-        if (error) throw error;
+        // Fail-safe: If launch_attendees table does not exist yet, fallback to form_submissions
+        if (error && (error.code === '42P01' || error.message?.includes('does not exist') || error.message?.includes('not found'))) {
+          console.warn('launch_attendees table missing, saving to form_submissions table fallback');
+          const fallbackRes = await supabase
+            .from('form_submissions')
+            .insert([
+              {
+                name: formData.name,
+                email: formData.email,
+                phone: formData.phone,
+                role: `LAUNCH_RSVP | Role: ${formData.role.toUpperCase()} | Org: ${formData.school_org || 'N/A'}`,
+              },
+            ]);
+          if (fallbackRes.error) throw fallbackRes.error;
+        } else if (error) {
+          throw error;
+        }
       } else {
         // 2. Fallback to LocalStorage + mock success if Supabase is offline/not configured
         console.warn('Supabase not configured. Saving RSVP to local storage fallback.');
