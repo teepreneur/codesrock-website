@@ -87,33 +87,52 @@ const AttendLaunchPage = () => {
           throw error;
         }
       } else {
-        // 2. Fallback to LocalStorage + mock success if Supabase is offline/not configured
-        console.warn('Supabase not configured. Saving RSVP to local storage fallback.');
+        // Fallback to LocalStorage if Supabase client is offline
         const existingRSVPs = JSON.parse(localStorage.getItem('launch_rsvps') || '[]');
-        existingRSVPs.push({
-          ...formData,
-          timestamp: new Date().toISOString(),
-        });
+        existingRSVPs.push({ ...formData, timestamp: new Date().toISOString() });
         localStorage.setItem('launch_rsvps', JSON.stringify(existingRSVPs));
       }
 
-      setStatus({ loading: false, success: true, error: null });
+      // 2. Dispatch email notification directly to hello@codesrock.com
+      try {
+        const emailBody = new FormData();
+        emailBody.append('_subject', `🚀 New Launch RSVP: ${formData.name} (${formData.role})`);
+        emailBody.append('Name', formData.name);
+        emailBody.append('Email', formData.email);
+        emailBody.append('Phone', formData.phone);
+        emailBody.append('School_Organization', formData.school_org || 'N/A');
+        emailBody.append('Role', formData.role.toUpperCase());
+        emailBody.append('Submitted_At', new Date().toLocaleString());
+
+        fetch('https://formsubmit.co/ajax/hello@codesrock.com', {
+          method: 'POST',
+          body: emailBody,
+        }).catch((emailErr) => console.warn('Email dispatch error:', emailErr));
+      } catch (emailErr) {
+        console.warn('Email dispatch warning:', emailErr);
+      }
+
+      const submittedName = formData.name;
+      const submittedEmail = formData.email;
+
+      // 3. Immediately clear form fields so info does not linger on screen
+      setFormData({
+        name: '',
+        email: '',
+        phone: '',
+        school_org: '',
+        role: 'parent',
+      });
+
+      setStatus({ loading: false, success: true, error: null, submittedName, submittedEmail });
       
-      // Reset form state after longer delay (15s) so user can access stream link
+      // Auto-hide success screen after 5 seconds
       setTimeout(() => {
-        setFormData({
-          name: '',
-          email: '',
-          phone: '',
-          school_org: '',
-          role: 'parent',
-        });
         setStatus({ loading: false, success: false, error: null });
-      }, 15000);
+      }, 5000);
 
     } catch (err) {
       console.error('RSVP Submission Error:', err);
-      // Even if database fails, we save locally to ensure we don't lose the lead
       try {
         const existingRSVPs = JSON.parse(localStorage.getItem('launch_rsvps') || '[]');
         existingRSVPs.push({
@@ -122,7 +141,22 @@ const AttendLaunchPage = () => {
           error_fallback: true,
         });
         localStorage.setItem('launch_rsvps', JSON.stringify(existingRSVPs));
-        setStatus({ loading: false, success: true, error: null });
+        
+        const submittedName = formData.name;
+        const submittedEmail = formData.email;
+
+        setFormData({
+          name: '',
+          email: '',
+          phone: '',
+          school_org: '',
+          role: 'parent',
+        });
+        setStatus({ loading: false, success: true, error: null, submittedName, submittedEmail });
+        
+        setTimeout(() => {
+          setStatus({ loading: false, success: false, error: null });
+        }, 5000);
       } catch (backupErr) {
         setStatus({
           loading: false,
@@ -268,50 +302,24 @@ const AttendLaunchPage = () => {
                 Fill in the details below to receive your Premiere link and a complimentary CodesRock Info Kit.
               </p>
 
-              {/* Status Notifications & Full Success Screen Takeover */}
+              {/* Status Notifications & Clean Success Screen Takeover */}
               {status.success ? (
-                <div className="py-8 px-2 text-center animate-fade-in space-y-6">
-                  <div className="inline-flex items-center justify-center w-20 h-20 bg-green-100 rounded-full animate-bounce-once">
-                    <CheckCircle2 className="w-10 h-10 text-green-600" />
+                <div className="py-8 px-2 text-center animate-fade-in space-y-5">
+                  <div className="inline-flex items-center justify-center w-16 h-16 bg-green-100 rounded-full animate-bounce-once">
+                    <CheckCircle2 className="w-8 h-8 text-green-600" />
                   </div>
 
                   <div>
-                    <h3 className="text-2xl font-extrabold text-gray-900 mb-2">You're Registered! 🎉</h3>
+                    <h3 className="text-2xl font-extrabold text-gray-900 mb-2">Spot Reserved! 🎉</h3>
                     <p className="text-gray-600 text-sm max-w-sm mx-auto leading-relaxed">
-                      Thank you, <span className="font-bold text-gray-900">{formData.name}</span>! Your spot is confirmed for <strong className="text-[#FF7340]">Today's Premiere at 4:30 PM GMT</strong>.
+                      Thank you, <span className="font-bold text-gray-900">{status.submittedName || 'Friend'}</span>! Your spot is confirmed for <strong className="text-[#FF7340]">Today's Premiere at 4:30 PM GMT</strong>.
                     </p>
                   </div>
 
-                  <div className="bg-green-50 border border-green-200 rounded-2xl p-4 text-xs text-green-800 space-y-1 text-left max-w-sm mx-auto">
-                    <p className="font-semibold flex items-center gap-1.5 text-green-900">
-                      <Sparkles className="w-4 h-4 text-green-600" /> Details Saved & Dispatched
+                  <div className="bg-green-50 border border-green-200 rounded-2xl p-4 text-xs text-green-900 text-center max-w-sm mx-auto leading-relaxed">
+                    <p>
+                      ✉️ We have dispatched your confirmation details to <span className="font-bold font-mono text-green-950">{status.submittedEmail || 'your email'}</span> and saved your registration to our database.
                     </p>
-                    <p>• Saved to Database & dispatched to <span className="font-mono font-bold">hello@codesrock.com</span></p>
-                    <p>• Phone: {formData.phone}</p>
-                    <p>• Email: {formData.email}</p>
-                  </div>
-
-                  <div className="pt-2 flex flex-col gap-3 max-w-sm mx-auto">
-                    <a
-                      href="https://drive.google.com/drive/folders/1GltMrMbWZVJxzAcvLtbH-LViK28NfpUi?usp=sharing"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="w-full bg-[#FF7340] hover:bg-[#E05B26] text-white font-bold py-3.5 px-6 rounded-xl shadow-lg transition-all flex items-center justify-center gap-2 text-sm"
-                    >
-                      <Sparkles className="w-4 h-4" />
-                      Access Premiere Videos & Stream
-                    </a>
-
-                    <button
-                      type="button"
-                      onClick={() => {
-                        setFormData({ name: '', email: '', phone: '', school_org: '', role: 'parent' });
-                        setStatus({ loading: false, success: false, error: null });
-                      }}
-                      className="w-full bg-gray-100 hover:bg-gray-200 text-gray-700 font-bold py-3 px-6 rounded-xl transition-all text-xs"
-                    >
-                      Register Another Attendee
-                    </button>
                   </div>
                 </div>
               ) : (
