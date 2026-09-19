@@ -83,7 +83,7 @@ const AttendLaunchPage = () => {
 
       setStatus({ loading: false, success: true, error: null });
       
-      // Reset form after delay
+      // Reset form state after longer delay (15s) so user can access stream link
       setTimeout(() => {
         setFormData({
           name: '',
@@ -93,7 +93,7 @@ const AttendLaunchPage = () => {
           role: 'parent',
         });
         setStatus({ loading: false, success: false, error: null });
-      }, 4000);
+      }, 15000);
 
     } catch (err) {
       console.error('RSVP Submission Error:', err);
@@ -254,11 +254,27 @@ const AttendLaunchPage = () => {
 
               {/* Status Notifications */}
               {status.success && (
-                <div className="bg-green-50 border-2 border-green-200 rounded-2xl p-4 flex items-center gap-3 mb-6 animate-fade-in">
-                  <CheckCircle2 className="w-6 h-6 text-green-600 shrink-0" />
-                  <p className="text-green-800 text-sm font-medium">
-                    RSVP Confirmed! We have sent a confirmation email with your invitation details. See you on September 18th!
+                <div className="bg-green-50 border-2 border-green-200 rounded-2xl p-5 space-y-3 mb-6 animate-fade-in">
+                  <div className="flex items-center gap-3">
+                    <CheckCircle2 className="w-6 h-6 text-green-600 shrink-0" />
+                    <p className="text-green-900 text-sm font-bold">
+                      🎉 RSVP Confirmed! Your spot is reserved for Today's Premiere at 4:30 PM GMT!
+                    </p>
+                  </div>
+                  <p className="text-green-800 text-xs leading-relaxed">
+                    Thank you, {formData.name || 'Friend'}! We have recorded your registration. You can join the live premiere stream directly below:
                   </p>
+                  <div className="pt-1">
+                    <a
+                      href="https://drive.google.com/drive/folders/1GltMrMbWZVJxzAcvLtbH-LViK28NfpUi?usp=sharing"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center gap-2 bg-[#FF7340] hover:bg-[#E05B26] text-white text-xs font-bold py-2.5 px-4 rounded-xl shadow transition-all"
+                    >
+                      <Sparkles className="w-4 h-4" />
+                      Access Premiere Videos & Stream
+                    </a>
+                  </div>
                 </div>
               )}
 
