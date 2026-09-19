@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { supabase } from '../lib/supabase';
 import { Calendar, Clock, MapPin, CheckCircle2, AlertCircle, Loader2, Sparkles, BookOpen, Users, Code, Award } from 'lucide-react';
 import BackgroundElements from '../components/BackgroundElements';
@@ -6,6 +6,25 @@ import Navigation from '../components/Navigation';
 import Footer from '../components/Footer';
 
 const AttendLaunchPage = () => {
+  useEffect(() => {
+    document.title = "CodesRock Live Premiere Launch | Screen-Free AI & Robotics For Kids";
+    
+    const updateMetaTag = (selector, attribute, content) => {
+      let tag = document.querySelector(selector);
+      if (tag) {
+        tag.setAttribute(attribute, content);
+      }
+    };
+
+    updateMetaTag('meta[name="description"]', 'content', 'Join CodesRock Labs live premiere launching our screen-free AI, robotics tools & open-source Teacher Portal today at 4:30 PM GMT.');
+    updateMetaTag('meta[property="og:title"]', 'content', 'CodesRock Live Premiere Launch | Screen-Free AI & Robotics For Kids');
+    updateMetaTag('meta[property="og:description"]', 'content', 'Join CodesRock Labs live premiere launching our screen-free AI, robotics tools & open-source Teacher Portal today at 4:30 PM GMT.');
+    updateMetaTag('meta[property="og:image"]', 'content', 'https://codesrock.com/attendlaunch-og.jpg');
+    updateMetaTag('meta[property="twitter:title"]', 'content', 'CodesRock Live Premiere Launch | Screen-Free AI & Robotics For Kids');
+    updateMetaTag('meta[property="twitter:description"]', 'content', 'Join CodesRock Labs live premiere launching our screen-free AI, robotics tools & open-source Teacher Portal today at 4:30 PM GMT.');
+    updateMetaTag('meta[property="twitter:image"]', 'content', 'https://codesrock.com/attendlaunch-og.jpg');
+  }, []);
+
   const [formData, setFormData] = useState({
     name: '',
     email: '',
