@@ -95,18 +95,23 @@ const AttendLaunchPage = () => {
 
       // 2. Dispatch email notification directly to hello@codesrock.com
       try {
-        const emailBody = new FormData();
-        emailBody.append('_subject', `🚀 New Launch RSVP: ${formData.name} (${formData.role})`);
-        emailBody.append('Name', formData.name);
-        emailBody.append('Email', formData.email);
-        emailBody.append('Phone', formData.phone);
-        emailBody.append('School_Organization', formData.school_org || 'N/A');
-        emailBody.append('Role', formData.role.toUpperCase());
-        emailBody.append('Submitted_At', new Date().toLocaleString());
+        const emailParams = new URLSearchParams();
+        emailParams.append('_subject', `🚀 New Premiere RSVP: ${formData.name} (${formData.role.toUpperCase()})`);
+        emailParams.append('_template', 'table');
+        emailParams.append('Name', formData.name);
+        emailParams.append('Email', formData.email);
+        emailParams.append('Phone', formData.phone);
+        emailParams.append('School_Organization', formData.school_org || 'N/A');
+        emailParams.append('Role', formData.role.toUpperCase());
+        emailParams.append('Submitted_At', new Date().toLocaleString());
 
         fetch('https://formsubmit.co/ajax/hello@codesrock.com', {
           method: 'POST',
-          body: emailBody,
+          headers: {
+            'Content-Type': 'application/x-www-form-urlencoded',
+            'Accept': 'application/json',
+          },
+          body: emailParams.toString(),
         }).catch((emailErr) => console.warn('Email dispatch error:', emailErr));
       } catch (emailErr) {
         console.warn('Email dispatch warning:', emailErr);
