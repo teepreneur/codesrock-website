@@ -268,138 +268,154 @@ const AttendLaunchPage = () => {
                 Fill in the details below to receive your Premiere link and a complimentary CodesRock Info Kit.
               </p>
 
-              {/* Status Notifications */}
-              {status.success && (
-                <div className="bg-green-50 border-2 border-green-200 rounded-2xl p-5 space-y-3 mb-6 animate-fade-in">
-                  <div className="flex items-center gap-3">
-                    <CheckCircle2 className="w-6 h-6 text-green-600 shrink-0" />
-                    <p className="text-green-900 text-sm font-bold">
-                      🎉 RSVP Confirmed! Your spot is reserved for Today's Premiere at 4:30 PM GMT!
+              {/* Status Notifications & Full Success Screen Takeover */}
+              {status.success ? (
+                <div className="py-8 px-2 text-center animate-fade-in space-y-6">
+                  <div className="inline-flex items-center justify-center w-20 h-20 bg-green-100 rounded-full animate-bounce-once">
+                    <CheckCircle2 className="w-10 h-10 text-green-600" />
+                  </div>
+
+                  <div>
+                    <h3 className="text-2xl font-extrabold text-gray-900 mb-2">You're Registered! 🎉</h3>
+                    <p className="text-gray-600 text-sm max-w-sm mx-auto leading-relaxed">
+                      Thank you, <span className="font-bold text-gray-900">{formData.name}</span>! Your spot is confirmed for <strong className="text-[#FF7340]">Today's Premiere at 4:30 PM GMT</strong>.
                     </p>
                   </div>
-                  <p className="text-green-800 text-xs leading-relaxed">
-                    Thank you, {formData.name || 'Friend'}! We have recorded your registration. You can join the live premiere stream directly below:
-                  </p>
-                  <div className="pt-1">
+
+                  <div className="bg-green-50 border border-green-200 rounded-2xl p-4 text-xs text-green-800 space-y-1 text-left max-w-sm mx-auto">
+                    <p className="font-semibold flex items-center gap-1.5 text-green-900">
+                      <Sparkles className="w-4 h-4 text-green-600" /> Details Saved & Dispatched
+                    </p>
+                    <p>• Saved to Database & dispatched to <span className="font-mono font-bold">hello@codesrock.com</span></p>
+                    <p>• Phone: {formData.phone}</p>
+                    <p>• Email: {formData.email}</p>
+                  </div>
+
+                  <div className="pt-2 flex flex-col gap-3 max-w-sm mx-auto">
                     <a
                       href="https://drive.google.com/drive/folders/1GltMrMbWZVJxzAcvLtbH-LViK28NfpUi?usp=sharing"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="inline-flex items-center gap-2 bg-[#FF7340] hover:bg-[#E05B26] text-white text-xs font-bold py-2.5 px-4 rounded-xl shadow transition-all"
+                      className="w-full bg-[#FF7340] hover:bg-[#E05B26] text-white font-bold py-3.5 px-6 rounded-xl shadow-lg transition-all flex items-center justify-center gap-2 text-sm"
                     >
                       <Sparkles className="w-4 h-4" />
                       Access Premiere Videos & Stream
                     </a>
+
+                    <button
+                      type="button"
+                      onClick={() => {
+                        setFormData({ name: '', email: '', phone: '', school_org: '', role: 'parent' });
+                        setStatus({ loading: false, success: false, error: null });
+                      }}
+                      className="w-full bg-gray-100 hover:bg-gray-200 text-gray-700 font-bold py-3 px-6 rounded-xl transition-all text-xs"
+                    >
+                      Register Another Attendee
+                    </button>
                   </div>
                 </div>
-              )}
-
-              {status.error && (
-                <div className="bg-red-50 border-2 border-red-200 rounded-2xl p-4 flex items-center gap-3 mb-6 animate-fade-in">
-                  <AlertCircle className="w-6 h-6 text-red-600 shrink-0" />
-                  <p className="text-red-800 text-sm font-medium">{status.error}</p>
-                </div>
-              )}
-
-              <form className="space-y-4" onSubmit={handleSubmit}>
-                <div className="space-y-1">
-                  <label className="text-xs font-semibold text-gray-700 ml-1">Your Name *</label>
-                  <input
-                    type="text"
-                    name="name"
-                    value={formData.name}
-                    onChange={handleChange}
-                    disabled={status.loading || status.success}
-                    required
-                    className="w-full px-4 py-3 rounded-xl bg-gray-50 border border-gray-200 focus:border-[#FF7340] focus:bg-white outline-none transition-all text-sm disabled:opacity-50"
-                    placeholder="e.g. Ama Serwaa"
-                  />
-                </div>
-
-                <div className="space-y-1">
-                  <label className="text-xs font-semibold text-gray-700 ml-1">Email Address *</label>
-                  <input
-                    type="email"
-                    name="email"
-                    value={formData.email}
-                    onChange={handleChange}
-                    disabled={status.loading || status.success}
-                    required
-                    className="w-full px-4 py-3 rounded-xl bg-gray-50 border border-gray-200 focus:border-[#FF7340] focus:bg-white outline-none transition-all text-sm disabled:opacity-50"
-                    placeholder="e.g. ama@gmail.com"
-                  />
-                </div>
-
-                <div className="space-y-1">
-                  <label className="text-xs font-semibold text-gray-700 ml-1">Phone / WhatsApp Number *</label>
-                  <input
-                    type="tel"
-                    name="phone"
-                    value={formData.phone}
-                    onChange={handleChange}
-                    disabled={status.loading || status.success}
-                    required
-                    className="w-full px-4 py-3 rounded-xl bg-gray-50 border border-gray-200 focus:border-[#FF7340] focus:bg-white outline-none transition-all text-sm disabled:opacity-50"
-                    placeholder="e.g. 0244 000 000"
-                  />
-                </div>
-
-                <div className="space-y-1">
-                  <label className="text-xs font-semibold text-gray-700 ml-1">School / Organization Name</label>
-                  <input
-                    type="text"
-                    name="school_org"
-                    value={formData.school_org}
-                    onChange={handleChange}
-                    disabled={status.loading || status.success}
-                    className="w-full px-4 py-3 rounded-xl bg-gray-50 border border-gray-200 focus:border-[#FF7340] focus:bg-white outline-none transition-all text-sm disabled:opacity-50"
-                    placeholder="e.g. Little Angels Academy"
-                  />
-                </div>
-
-                <div className="space-y-1">
-                  <label className="text-xs font-semibold text-gray-700 ml-1">I am registering as a:</label>
-                  <select
-                    name="role"
-                    value={formData.role}
-                    onChange={handleChange}
-                    disabled={status.loading || status.success}
-                    className="w-full px-4 py-3 rounded-xl bg-gray-50 border border-gray-200 focus:border-[#FF7340] focus:bg-white outline-none transition-all text-sm disabled:opacity-50"
-                  >
-                    <option value="parent">Parent wanting child STEM success</option>
-                    <option value="school_leader">School Proprietor / Academic Director</option>
-                    <option value="teacher">Teacher / Educator interested in training</option>
-                    <option value="partner">Corporate CSR / Development Partner</option>
-                    <option value="other">Interested observer / Volunteer</option>
-                  </select>
-                </div>
-
-                <button
-                  type="submit"
-                  disabled={status.loading || status.success}
-                  className="w-full bg-gray-900 text-white py-3.5 rounded-xl font-bold text-sm shadow-xl hover:bg-[#FF7340] transition-all transform hover:-translate-y-0.5 flex items-center justify-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none mt-6"
-                >
-                  {status.loading ? (
-                    <>
-                      <Loader2 className="w-4 h-4 animate-spin" />
-                      Securing RSVP...
-                    </>
-                  ) : status.success ? (
-                    <>
-                      <CheckCircle2 className="w-4 h-4" />
-                      Spot Reserved!
-                    </>
-                  ) : (
-                    <>
-                      Reserve My Spot
-                      <Sparkles className="w-4 h-4" />
-                    </>
+              ) : (
+                <form className="space-y-4" onSubmit={handleSubmit}>
+                  {status.error && (
+                    <div className="bg-red-50 border-2 border-red-200 rounded-2xl p-4 flex items-center gap-3 mb-6 animate-fade-in">
+                      <AlertCircle className="w-6 h-6 text-red-600 shrink-0" />
+                      <p className="text-red-800 text-sm font-medium">{status.error}</p>
+                    </div>
                   )}
-                </button>
-              </form>
+
+                  <div className="space-y-1">
+                    <label className="text-xs font-semibold text-gray-700 ml-1">Your Name *</label>
+                    <input
+                      type="text"
+                      name="name"
+                      value={formData.name}
+                      onChange={handleChange}
+                      disabled={status.loading}
+                      required
+                      className="w-full px-4 py-3 rounded-xl bg-gray-50 border border-gray-200 focus:border-[#FF7340] focus:bg-white outline-none transition-all text-sm disabled:opacity-50"
+                      placeholder="e.g. Ama Serwaa"
+                    />
+                  </div>
+
+                  <div className="space-y-1">
+                    <label className="text-xs font-semibold text-gray-700 ml-1">Email Address *</label>
+                    <input
+                      type="email"
+                      name="email"
+                      value={formData.email}
+                      onChange={handleChange}
+                      disabled={status.loading}
+                      required
+                      className="w-full px-4 py-3 rounded-xl bg-gray-50 border border-gray-200 focus:border-[#FF7340] focus:bg-white outline-none transition-all text-sm disabled:opacity-50"
+                      placeholder="e.g. ama@gmail.com"
+                    />
+                  </div>
+
+                  <div className="space-y-1">
+                    <label className="text-xs font-semibold text-gray-700 ml-1">Phone / WhatsApp Number *</label>
+                    <input
+                      type="tel"
+                      name="phone"
+                      value={formData.phone}
+                      onChange={handleChange}
+                      disabled={status.loading}
+                      required
+                      className="w-full px-4 py-3 rounded-xl bg-gray-50 border border-gray-200 focus:border-[#FF7340] focus:bg-white outline-none transition-all text-sm disabled:opacity-50"
+                      placeholder="e.g. 0244 000 000"
+                    />
+                  </div>
+
+                  <div className="space-y-1">
+                    <label className="text-xs font-semibold text-gray-700 ml-1">School / Organization Name</label>
+                    <input
+                      type="text"
+                      name="school_org"
+                      value={formData.school_org}
+                      onChange={handleChange}
+                      disabled={status.loading}
+                      className="w-full px-4 py-3 rounded-xl bg-gray-50 border border-gray-200 focus:border-[#FF7340] focus:bg-white outline-none transition-all text-sm disabled:opacity-50"
+                      placeholder="e.g. Little Angels Academy"
+                    />
+                  </div>
+
+                  <div className="space-y-1">
+                    <label className="text-xs font-semibold text-gray-700 ml-1">I am registering as a:</label>
+                    <select
+                      name="role"
+                      value={formData.role}
+                      onChange={handleChange}
+                      disabled={status.loading}
+                      className="w-full px-4 py-3 rounded-xl bg-gray-50 border border-gray-200 focus:border-[#FF7340] focus:bg-white outline-none transition-all text-sm disabled:opacity-50"
+                    >
+                      <option value="parent">Parent wanting child STEM success</option>
+                      <option value="school_leader">School Proprietor / Academic Director</option>
+                      <option value="teacher">Teacher / Educator interested in training</option>
+                      <option value="partner">Corporate CSR / Development Partner</option>
+                      <option value="other">Interested observer / Volunteer</option>
+                    </select>
+                  </div>
+
+                  <button
+                    type="submit"
+                    disabled={status.loading}
+                    className="w-full bg-gray-900 text-white py-3.5 rounded-xl font-bold text-sm shadow-xl hover:bg-[#FF7340] transition-all transform hover:-translate-y-0.5 flex items-center justify-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none mt-6"
+                  >
+                    {status.loading ? (
+                      <>
+                        <Loader2 className="w-4 h-4 animate-spin" />
+                        Securing RSVP...
+                      </>
+                    ) : (
+                      <>
+                        Reserve My Spot
+                        <Sparkles className="w-4 h-4" />
+                      </>
+                    )}
+                  </button>
+                </form>
+              )}
             </div>
           </div>
-
         </div>
       </section>
 
